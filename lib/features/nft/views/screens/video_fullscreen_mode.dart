@@ -61,7 +61,7 @@ class _MediaFullScreenModeState extends State<MediaFullScreenMode> {
                               padding: const EdgeInsets.symmetric(
                                   vertical: 16, horizontal: 10),
                               child: Text(
-                                'Powered by Avex',
+                                'Powered by Xeba',
                                 style: inter.copyWith(
                                   fontWeight: FontWeight.bold,
                                   color: Colors.white38,

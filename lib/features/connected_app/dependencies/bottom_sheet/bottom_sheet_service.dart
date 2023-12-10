@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:collection';
 
 import 'package:flutter/material.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/bottom_sheet/i_bottom_sheet_service.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/bottom_sheet/i_bottom_sheet_service.dart';
 
 class BottomSheetService extends IBottomSheetService {
   Queue queue = Queue<BottomSheetQueueItem>();

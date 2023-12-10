@@ -1,5 +1,5 @@
-import 'package:avex_mobile/core/utils/utils.dart';
-import 'package:avex_mobile/services/local_services/secure_storage/secure_storage.dart';
+import 'package:xeba_mobile/core/utils/utils.dart';
+import 'package:xeba_mobile/services/local_services/secure_storage/secure_storage.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 

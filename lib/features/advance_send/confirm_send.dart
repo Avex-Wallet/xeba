@@ -1,5 +1,5 @@
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/advance_send/processing_screen.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/advance_send/processing_screen.dart';
 import 'package:flutter/material.dart';
 
 class ConfirmSend extends StatelessWidget {

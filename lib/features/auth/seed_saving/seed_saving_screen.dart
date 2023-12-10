@@ -10,11 +10,11 @@ import 'package:screenshot/screenshot.dart';
 import 'package:share_plus/share_plus.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/features/auth/seed_saving/cloud_key_save.dart';
-import 'package:avex_mobile/features/auth/seed_saving/seed_saving_state_notifier.dart';
-import 'package:avex_mobile/features/widget/button.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/auth/seed_saving/cloud_key_save.dart';
+import 'package:xeba_mobile/features/auth/seed_saving/seed_saving_state_notifier.dart';
+import 'package:xeba_mobile/features/widget/button.dart';
 
 class SeedSavingScreen extends ConsumerStatefulWidget {
   const SeedSavingScreen(

@@ -37,7 +37,7 @@ class MainDrawer extends StatelessWidget {
                 ),
                 const SizedBox(width: 10),
                 Text(
-                  'Avex',
+                  'Xeba',
                   style: inter.copyWith(
                     fontSize: 24,
                     fontWeight: FontWeight.w500,

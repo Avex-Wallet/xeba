@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:avex_mobile/features/connected_app/utils/constants.dart';
-import 'package:avex_mobile/features/connected_app/utils/string_constants.dart';
-import 'package:avex_mobile/features/connected_app/widgets/custom_button.dart';
+import 'package:xeba_mobile/features/connected_app/utils/constants.dart';
+import 'package:xeba_mobile/features/connected_app/utils/string_constants.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/custom_button.dart';
 
 // ignore: must_be_immutable
 class WCRequestWidget extends StatelessWidget {

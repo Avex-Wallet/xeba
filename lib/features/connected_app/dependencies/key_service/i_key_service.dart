@@ -1,4 +1,4 @@
-import 'package:avex_mobile/features/connected_app/dependencies/key_service/chain_key.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/key_service/chain_key.dart';
 
 abstract class IKeyService {
   /// Returns a list of all the keys.

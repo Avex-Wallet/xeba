@@ -3,11 +3,11 @@
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 import 'package:walletconnect_flutter_v2/walletconnect_flutter_v2.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/i_web3wallet_service.dart';
-import 'package:avex_mobile/features/connected_app/utils/constants.dart';
-import 'package:avex_mobile/features/connected_app/utils/namespace_model_builder.dart';
-import 'package:avex_mobile/features/connected_app/utils/string_constants.dart';
-import 'package:avex_mobile/features/connected_app/widgets/custom_button.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/i_web3wallet_service.dart';
+import 'package:xeba_mobile/features/connected_app/utils/constants.dart';
+import 'package:xeba_mobile/features/connected_app/utils/namespace_model_builder.dart';
+import 'package:xeba_mobile/features/connected_app/utils/string_constants.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/custom_button.dart';
 
 import '../../../core/themes/palette.dart';
 

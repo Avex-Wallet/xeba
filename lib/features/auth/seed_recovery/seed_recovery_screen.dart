@@ -2,16 +2,16 @@
 
 import 'dart:async';
 
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
 import 'package:dropbox_client/dropbox_client.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/auth/seed_recovery/cloud_key_option.dart';
-import 'package:avex_mobile/features/auth/seed_recovery/seed_recovery_state_notifier.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/auth/seed_recovery/cloud_key_option.dart';
+import 'package:xeba_mobile/features/auth/seed_recovery/seed_recovery_state_notifier.dart';
 
 class SeedRecoveryScreen extends ConsumerStatefulWidget {
   const SeedRecoveryScreen({super.key});

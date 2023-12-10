@@ -1,10 +1,10 @@
 // ignore_for_file: depend_on_referenced_packages, use_build_context_synchronously
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/nft/controllers/all_chain_nft.controller.dart';
-import 'package:avex_mobile/features/nft/controllers/current_chain_nft.controller.dart';
-import 'package:avex_mobile/features/token/controller/tokenlist_provider.dart';
-import 'package:avex_mobile/services/local_services/db/account_db.dart'
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/nft/controllers/all_chain_nft.controller.dart';
+import 'package:xeba_mobile/features/nft/controllers/current_chain_nft.controller.dart';
+import 'package:xeba_mobile/features/token/controller/tokenlist_provider.dart';
+import 'package:xeba_mobile/services/local_services/db/account_db.dart'
     // ignore: library_prefixes
     as AccountDB;
 import 'package:solana/solana.dart';
@@ -18,10 +18,10 @@ import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:hex/hex.dart';
 import 'package:web3dart/web3dart.dart' show EthPrivateKey;
-import 'package:avex_mobile/features/accounts/models/account.model.dart';
-import 'package:avex_mobile/main.dart';
-import 'package:avex_mobile/services/local_services/secure_storage/secure_storage.dart';
-import 'package:avex_mobile/services/local_services/shared_pref/shared_pref.dart';
+import 'package:xeba_mobile/features/accounts/models/account.model.dart';
+import 'package:xeba_mobile/main.dart';
+import 'package:xeba_mobile/services/local_services/secure_storage/secure_storage.dart';
+import 'package:xeba_mobile/services/local_services/shared_pref/shared_pref.dart';
 
 final accountProvider = StateNotifierProvider<AccountNotifier, Account>((ref) {
   // ref.watch(currentNetworkChainProvider);

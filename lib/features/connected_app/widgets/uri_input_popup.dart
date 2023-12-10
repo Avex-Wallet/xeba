@@ -1,9 +1,9 @@
-import 'package:avex_mobile/core/themes/themes.dart';
+import 'package:xeba_mobile/core/themes/themes.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:avex_mobile/features/connected_app/utils/constants.dart';
-import 'package:avex_mobile/features/connected_app/utils/string_constants.dart';
-import 'package:avex_mobile/features/connected_app/widgets/custom_button.dart';
+import 'package:xeba_mobile/features/connected_app/utils/constants.dart';
+import 'package:xeba_mobile/features/connected_app/utils/string_constants.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/custom_button.dart';
 
 class UriInputPopup extends StatelessWidget {
   UriInputPopup({

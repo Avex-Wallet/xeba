@@ -4,9 +4,9 @@ import 'package:bip32_ed25519/bip32_ed25519.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 
-import 'package:avex_mobile/services/api_services/api_response.dart';
-import 'package:avex_mobile/services/api_services/api_services.dart';
-import 'package:avex_mobile/services/eddsa_hmac.dart';
+import 'package:xeba_mobile/services/api_services/api_response.dart';
+import 'package:xeba_mobile/services/api_services/api_services.dart';
+import 'package:xeba_mobile/services/eddsa_hmac.dart';
 
 part 'restore_existing_account_state_notifier.freezed.dart';
 

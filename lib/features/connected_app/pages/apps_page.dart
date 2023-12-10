@@ -4,13 +4,13 @@ import 'package:get_it/get_it.dart';
 import 'package:get_it_mixin/get_it_mixin.dart';
 import 'package:walletconnect_flutter_v2/walletconnect_flutter_v2.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/i_web3wallet_service.dart';
-import 'package:avex_mobile/features/connected_app/pages/app_detail_page.dart';
-import 'package:avex_mobile/features/connected_app/utils/string_constants.dart';
-import 'package:avex_mobile/features/connected_app/widgets/pairing_item.dart';
-import 'package:avex_mobile/features/connected_app/widgets/qr_scan_sheet.dart';
-import 'package:avex_mobile/features/connected_app/widgets/uri_input_popup.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/i_web3wallet_service.dart';
+import 'package:xeba_mobile/features/connected_app/pages/app_detail_page.dart';
+import 'package:xeba_mobile/features/connected_app/utils/string_constants.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/pairing_item.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/qr_scan_sheet.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/uri_input_popup.dart';
 
 class AppsPage extends StatefulWidget with GetItStatefulWidgetMixin {
   AppsPage({

@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:avex_mobile/config/router/router.dart';
-import 'package:avex_mobile/services/eddsa_hmac.dart';
+import 'package:xeba_mobile/config/router/router.dart';
+import 'package:xeba_mobile/services/eddsa_hmac.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';

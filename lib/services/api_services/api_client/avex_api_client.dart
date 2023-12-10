@@ -10,8 +10,8 @@ import 'package:xeba_mobile/model/requests/delete_secret_request.dart';
 part "avex_api_client.g.dart";
 
 @RestApi(baseUrl: "https://api.panic0.com/auth")
-abstract class AvexApiClient {
-  factory AvexApiClient(Dio dio) = _AvexApiClient;
+abstract class XebaApiClient {
+  factory XebaApiClient(Dio dio) = _XebaApiClient;
 
   @POST("/auth/login")
   Future<HttpResponse> generateEmailDynamicLink(@Body() SignupRequest request);

@@ -2,11 +2,11 @@
 
 import 'package:flutter/material.dart';
 import 'package:get_it_mixin/get_it_mixin.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/bottom_sheet/bottom_sheet_listener.dart';
-import 'package:avex_mobile/features/connected_app/models/page_data.dart';
-import 'package:avex_mobile/features/connected_app/pages/apps_page.dart';
-import 'package:avex_mobile/features/connected_app/utils/constants.dart';
-import 'package:avex_mobile/features/connected_app/utils/string_constants.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/bottom_sheet/bottom_sheet_listener.dart';
+import 'package:xeba_mobile/features/connected_app/models/page_data.dart';
+import 'package:xeba_mobile/features/connected_app/pages/apps_page.dart';
+import 'package:xeba_mobile/features/connected_app/utils/constants.dart';
+import 'package:xeba_mobile/features/connected_app/utils/string_constants.dart';
 
 import '../../core/themes/palette.dart';
 

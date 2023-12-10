@@ -1,7 +1,7 @@
 // ignore_for_file: depend_on_referenced_packages, library_prefixes, unused_import, unused_field, prefer_final_fields, deprecated_member_use
 
 import 'dart:convert';
-import 'package:avex_mobile/core/utils/utils.dart';
+import 'package:xeba_mobile/core/utils/utils.dart';
 import 'package:eddsa_hmac/constants/network.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:http/http.dart' as http;
@@ -11,18 +11,18 @@ import 'package:convert/convert.dart';
 import 'package:eth_sig_util/eth_sig_util.dart';
 import 'package:get_it/get_it.dart';
 import 'package:walletconnect_flutter_v2/walletconnect_flutter_v2.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/chains/i_chain.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/bottom_sheet/i_bottom_sheet_service.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/i_web3wallet_service.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/key_service/chain_key.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/key_service/i_key_service.dart';
-import 'package:avex_mobile/features/connected_app/models/eth/ethereum_transaction.dart';
-import 'package:avex_mobile/features/connected_app/utils/eth_utils.dart';
-import 'package:avex_mobile/features/connected_app/widgets/wc_connection_widget/wc_connection_model.dart';
-import 'package:avex_mobile/features/connected_app/widgets/wc_connection_widget/wc_connection_widget.dart';
-import 'package:avex_mobile/features/connected_app/widgets/wc_request_widget.dart/wc_request_widget.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/chains/i_chain.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/bottom_sheet/i_bottom_sheet_service.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/i_web3wallet_service.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/key_service/chain_key.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/key_service/i_key_service.dart';
+import 'package:xeba_mobile/features/connected_app/models/eth/ethereum_transaction.dart';
+import 'package:xeba_mobile/features/connected_app/utils/eth_utils.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/wc_connection_widget/wc_connection_model.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/wc_connection_widget/wc_connection_widget.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/wc_request_widget.dart/wc_request_widget.dart';
 import 'package:web3dart/web3dart.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
 import 'package:eddsa_hmac/services/wallet/key.service.dart' as key;
 import 'package:dart_bip32_bip44/dart_bip32_bip44.dart';
 import 'package:eddsa_hmac/services/evm/core/signature.service.dart'

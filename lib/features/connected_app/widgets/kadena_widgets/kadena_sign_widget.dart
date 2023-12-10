@@ -2,10 +2,10 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:kadena_dart_sdk/kadena_dart_sdk.dart';
-import 'package:avex_mobile/features/connected_app/utils/constants.dart';
-import 'package:avex_mobile/features/connected_app/widgets/wc_connection_widget/wc_connection_model.dart';
-import 'package:avex_mobile/features/connected_app/widgets/wc_connection_widget/wc_connection_widget.dart';
-import 'package:avex_mobile/features/connected_app/widgets/wc_request_widget.dart/wc_request_widget.dart';
+import 'package:xeba_mobile/features/connected_app/utils/constants.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/wc_connection_widget/wc_connection_model.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/wc_connection_widget/wc_connection_widget.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/wc_request_widget.dart/wc_request_widget.dart';
 
 /// A widget that takes a list of PactCommandPayloads, and allows the user
 /// to sign each one individually. If there is only one item in the list,

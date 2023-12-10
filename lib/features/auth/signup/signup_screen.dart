@@ -1,5 +1,5 @@
-import 'package:avex_mobile/config/router/router.dart';
-import 'package:avex_mobile/features/auth/signup/signup_state_notifier.dart';
+import 'package:xeba_mobile/config/router/router.dart';
+import 'package:xeba_mobile/features/auth/signup/signup_state_notifier.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';

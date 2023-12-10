@@ -1,4 +1,4 @@
-import 'package:avex_mobile/model/token/token_hits.dart';
+import 'package:xeba_mobile/model/token/token_hits.dart';
 
 class Token extends TokenHits {
   Token({

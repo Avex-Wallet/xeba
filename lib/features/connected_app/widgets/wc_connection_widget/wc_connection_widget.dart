@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:avex_mobile/features/connected_app/utils/constants.dart';
-import 'package:avex_mobile/features/connected_app/widgets/wc_connection_widget/wc_connection_widget_info.dart';
-import 'package:avex_mobile/features/connected_app/widgets/wc_connection_widget/wc_connection_model.dart';
+import 'package:xeba_mobile/features/connected_app/utils/constants.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/wc_connection_widget/wc_connection_widget_info.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/wc_connection_widget/wc_connection_model.dart';
 
 class WCConnectionWidget extends StatelessWidget {
   const WCConnectionWidget({

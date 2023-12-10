@@ -10,8 +10,8 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/auth/seed_recovery/seed_recovery_state_notifier.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/auth/seed_recovery/seed_recovery_state_notifier.dart';
 
 void showCloudKeyBackupRecovery({required BuildContext context}) {
   showModalBottomSheet(
@@ -272,7 +272,7 @@ class _DriveWidgetState extends State<DriveWidget> {
                     final flag = await checkAuthorized(true);
                     if (flag) {
                       final url = await Dropbox.getTemporaryLink(
-                          '/AvexWalletBackupSecret');
+                          '/XebaWalletBackupSecret');
                       final res = await Dio().get(url ?? '');
                       ref
                               .read(seedRecoveryStateNotifierProvider.notifier)

@@ -23,15 +23,15 @@ final apiServiceProvider = Provider<ApiService>((ref) => ApiService(
     ));
 
 class ApiService {
-  late final AvexApiClient avexApiClient;
-  late final AvexSearchClient avexSearchClient;
-  late final AvexPortfolioApiClient portfolioApiClient;
+  late final XebaApiClient avexApiClient;
+  late final XebaSearchClient avexSearchClient;
+  late final XebaPortfolioApiClient portfolioApiClient;
   final String unknownErrorMessage = "An Unknown Error Message Happen";
 
   ApiService(Dio dio) {
-    avexApiClient = AvexApiClient(dio);
-    avexSearchClient = AvexSearchClient(dio);
-    portfolioApiClient = AvexPortfolioApiClient(dio);
+    avexApiClient = XebaApiClient(dio);
+    avexSearchClient = XebaSearchClient(dio);
+    portfolioApiClient = XebaPortfolioApiClient(dio);
   }
 
   Future<ApiResponse<void>> signupWithDynamicLink(String email) async {

@@ -1,8 +1,8 @@
 // bottom_sheet_listener.dart
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/bottom_sheet/i_bottom_sheet_service.dart';
-import 'package:avex_mobile/features/connected_app/utils/constants.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/bottom_sheet/i_bottom_sheet_service.dart';
+import 'package:xeba_mobile/features/connected_app/utils/constants.dart';
 
 class BottomSheetListener extends StatefulWidget {
   final Widget child;

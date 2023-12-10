@@ -9,9 +9,9 @@ import 'package:web3dart/credentials.dart';
 import 'package:web3dart/crypto.dart';
 import 'package:web3dart/web3dart.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/home/bottom_navbar/home.dart';
-import 'package:avex_mobile/main.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/home/bottom_navbar/home.dart';
+import 'package:xeba_mobile/main.dart';
 
 class DappBrowser extends ConsumerStatefulWidget {
   const DappBrowser({Key? key}) : super(key: key);

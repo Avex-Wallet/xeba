@@ -6,8 +6,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
 
 String ipfsImage(String imageUrl) {
   if (imageUrl.startsWith('ipfs://')) {

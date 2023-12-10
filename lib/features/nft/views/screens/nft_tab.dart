@@ -268,7 +268,7 @@ class NoNftFound extends StatelessWidget {
         SizedBox(
           width: MediaQuery.of(context).size.width * 0.6,
           child: Text(
-            'Secure you’re nfts by saving them on Avex. Start by receiving new ones or connect to existing collection',
+            'Secure you’re nfts by saving them on Xeba. Start by receiving new ones or connect to existing collection',
             textAlign: TextAlign.center,
             style: urbunist.copyWith(
               fontWeight: FontWeight.w300,

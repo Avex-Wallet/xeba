@@ -13,7 +13,7 @@ class DioLogger {
 }
 
 CacheOptions? dioCacheOption(
-        {String? dir = '/data/user/0/com.example.avex_mobile/app_flutter'}) =>
+        {String? dir = '/data/user/0/com.example.xeba_mobile/app_flutter'}) =>
     CacheOptions(
       store: HiveCacheStore(dir, hiveBoxName: 'Dio Cache'),
       // Default.

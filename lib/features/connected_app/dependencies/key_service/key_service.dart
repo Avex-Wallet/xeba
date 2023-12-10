@@ -1,8 +1,8 @@
 // ignore_for_file: depend_on_referenced_packages, unused_import
 
-import 'package:avex_mobile/features/connected_app/dependencies/key_service/chain_key.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/key_service/i_key_service.dart';
-import 'package:avex_mobile/features/connected_app/utils/dart_defines.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/key_service/chain_key.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/key_service/i_key_service.dart';
+import 'package:xeba_mobile/features/connected_app/utils/dart_defines.dart';
 import 'package:riverpod/riverpod.dart';
 
 class KeyService extends IKeyService {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mobile_scanner/mobile_scanner.dart';
-import 'package:avex_mobile/features/connected_app/utils/constants.dart';
+import 'package:xeba_mobile/features/connected_app/utils/constants.dart';
 
 class QRScanSheet extends StatefulWidget {
   const QRScanSheet({

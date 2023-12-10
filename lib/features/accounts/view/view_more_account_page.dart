@@ -6,11 +6,11 @@ import 'package:flutter_animate/flutter_animate.dart';
 import 'package:flutter_gravatar/flutter_gravatar.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/features/accounts/controller/function.dart';
-import 'package:avex_mobile/features/accounts/view/section_widget/receive_bottom_sheet.dart';
-import 'package:avex_mobile/services/local_services/db/account_db.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/accounts/controller/function.dart';
+import 'package:xeba_mobile/features/accounts/view/section_widget/receive_bottom_sheet.dart';
+import 'package:xeba_mobile/services/local_services/db/account_db.dart';
 
 final totalBalance = StateProvider<Map<String, String>>((ref) => {});
 final totalBal = StateProvider<Map<String, double>>((ref) {
@@ -56,7 +56,7 @@ class _ViewMoreAccountScreenState extends ConsumerState<ViewMoreAccountScreen> {
                       ),
                       const SizedBox(width: 8),
                       Text(
-                        'Avex',
+                        'Xeba',
                         style: inter.copyWith(
                           color: Colors.black,
                           fontSize: 25,

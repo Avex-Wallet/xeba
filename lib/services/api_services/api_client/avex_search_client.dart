@@ -7,8 +7,8 @@ import 'package:retrofit/http.dart';
 part "avex_search_client.g.dart";
 
 @RestApi(baseUrl: "https://api.panic0.com/search")
-abstract class AvexSearchClient {
-  factory AvexSearchClient(Dio dio) = _AvexSearchClient;
+abstract class XebaSearchClient {
+  factory XebaSearchClient(Dio dio) = _XebaSearchClient;
 
   @GET("/indexes/tokens/search")
   Future<HttpResponse> searchTokenViaMillisearch(

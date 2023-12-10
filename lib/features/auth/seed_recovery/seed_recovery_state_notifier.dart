@@ -2,11 +2,11 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 
-import 'package:avex_mobile/services/api_services/api_response.dart';
-import 'package:avex_mobile/services/api_services/api_services.dart';
-import 'package:avex_mobile/services/drive_service/google_drive/drive_main_service.dart';
-import 'package:avex_mobile/services/eddsa_hmac.dart';
-import 'package:avex_mobile/services/local_services/secure_storage/secure_storage.dart';
+import 'package:xeba_mobile/services/api_services/api_response.dart';
+import 'package:xeba_mobile/services/api_services/api_services.dart';
+import 'package:xeba_mobile/services/drive_service/google_drive/drive_main_service.dart';
+import 'package:xeba_mobile/services/eddsa_hmac.dart';
+import 'package:xeba_mobile/services/local_services/secure_storage/secure_storage.dart';
 
 part 'seed_recovery_state_notifier.freezed.dart';
 
@@ -39,7 +39,7 @@ class SeedRecoveryStateNotifier
       final driveApi = await driveClient.getDriveApi(user.data!);
       if (driveApi != null) {
         final file =
-            await driveClient.getDriveFile(driveApi, "AvexWalletBackupSecret");
+            await driveClient.getDriveFile(driveApi, "XebaWalletBackupSecret");
         if (file != null) {
           final restoredFile = await driveClient.restoreDriveFile(
               driveApi: driveApi, driveFile: file, targetLocalPath: ".");

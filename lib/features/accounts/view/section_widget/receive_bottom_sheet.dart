@@ -12,9 +12,9 @@ import 'package:qr_flutter/qr_flutter.dart';
 import 'package:screenshot/screenshot.dart';
 import 'package:share_plus/share_plus.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/services/local_services/db/account_db.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/services/local_services/db/account_db.dart';
 
 receiverBottomSheet(BuildContext context, Account account, int index) {
   return showModalBottomSheet(

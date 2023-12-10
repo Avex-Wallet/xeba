@@ -1,6 +1,6 @@
-import 'package:avex_mobile/core/themes/themes.dart';
+import 'package:xeba_mobile/core/themes/themes.dart';
 import 'package:flutter/material.dart';
-import 'package:avex_mobile/features/connected_app/utils/constants.dart';
+import 'package:xeba_mobile/features/connected_app/utils/constants.dart';
 
 enum CustomButtonType { normal, valid, invalid }
 

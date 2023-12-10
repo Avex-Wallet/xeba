@@ -2,7 +2,7 @@
 
 import 'dart:async';
 
-import 'package:avex_mobile/config/router/router.dart';
+import 'package:xeba_mobile/config/router/router.dart';
 import 'package:firebase_dynamic_links/firebase_dynamic_links.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';

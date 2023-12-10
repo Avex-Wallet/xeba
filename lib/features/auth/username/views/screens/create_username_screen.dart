@@ -3,13 +3,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/config/config.dart';
-import 'package:avex_mobile/core/themes/themes.dart';
-import 'package:avex_mobile/core/utils/utils.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/features/auth/username/service/user_service.dart';
-import 'package:avex_mobile/features/auth/username/views/widgets/validation_indicator.dart';
-import 'package:avex_mobile/services/local_services/secure_storage/secure_storage.dart';
+import 'package:xeba_mobile/config/config.dart';
+import 'package:xeba_mobile/core/themes/themes.dart';
+import 'package:xeba_mobile/core/utils/utils.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/auth/username/service/user_service.dart';
+import 'package:xeba_mobile/features/auth/username/views/widgets/validation_indicator.dart';
+import 'package:xeba_mobile/services/local_services/secure_storage/secure_storage.dart';
 
 class CreateUsernameScreen extends ConsumerStatefulWidget {
   const CreateUsernameScreen({super.key});

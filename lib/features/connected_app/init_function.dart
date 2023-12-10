@@ -2,19 +2,19 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:get_it/get_it.dart';
 
-import 'package:avex_mobile/core/utils/utils.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/bottom_sheet/bottom_sheet_service.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/bottom_sheet/i_bottom_sheet_service.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/chains/evm_service.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/chains/i_chain.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/chains/kadena_service.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/i_web3wallet_service.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/key_service/chain_key.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/key_service/i_key_service.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/key_service/key_service.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/web3wallet_service.dart';
-import 'package:avex_mobile/features/connected_app/utils/dart_defines.dart';
+import 'package:xeba_mobile/core/utils/utils.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/bottom_sheet/bottom_sheet_service.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/bottom_sheet/i_bottom_sheet_service.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/chains/evm_service.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/chains/i_chain.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/chains/kadena_service.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/i_web3wallet_service.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/key_service/chain_key.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/key_service/i_key_service.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/key_service/key_service.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/web3wallet_service.dart';
+import 'package:xeba_mobile/features/connected_app/utils/dart_defines.dart';
 // =================================================================
 
 Future<void> initWalletConnect(WidgetRef ref) async {

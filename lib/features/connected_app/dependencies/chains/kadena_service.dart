@@ -4,12 +4,12 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:get_it/get_it.dart';
 import 'package:kadena_dart_sdk/kadena_dart_sdk.dart';
 import 'package:walletconnect_flutter_v2/walletconnect_flutter_v2.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/chains/i_chain.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/bottom_sheet/i_bottom_sheet_service.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/i_web3wallet_service.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/key_service/chain_key.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/key_service/i_key_service.dart';
-import 'package:avex_mobile/features/connected_app/widgets/kadena_widgets/kadena_sign_widget.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/chains/i_chain.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/bottom_sheet/i_bottom_sheet_service.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/i_web3wallet_service.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/key_service/chain_key.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/key_service/i_key_service.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/kadena_widgets/kadena_sign_widget.dart';
 
 enum KadenaChainId {
   testnet04,

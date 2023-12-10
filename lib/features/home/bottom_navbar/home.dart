@@ -26,7 +26,7 @@ class _HomePageState extends ConsumerState<HomePage> {
     return await showDialog(
           context: context,
           builder: (context) => AlertDialog(
-            title: const Text('Exit Avex'),
+            title: const Text('Exit Xeba'),
             content: const Text('Do you want to exit an App?'),
             actions: [
               ElevatedButton(

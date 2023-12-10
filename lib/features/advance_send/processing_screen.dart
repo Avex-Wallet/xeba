@@ -2,14 +2,14 @@
 
 import 'dart:async';
 
-import 'package:avex_mobile/config/router/router.dart';
+import 'package:xeba_mobile/config/router/router.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'package:avex_mobile/core/assets/assets.gen.dart';
-import 'package:avex_mobile/core/themes/themes.dart';
-import 'package:avex_mobile/features/send_transaction/controllers/send_fund_controller.dart';
+import 'package:xeba_mobile/core/assets/assets.gen.dart';
+import 'package:xeba_mobile/core/themes/themes.dart';
+import 'package:xeba_mobile/features/send_transaction/controllers/send_fund_controller.dart';
 
 class ProcessTxn extends ConsumerStatefulWidget {
   const ProcessTxn({Key? key}) : super(key: key);

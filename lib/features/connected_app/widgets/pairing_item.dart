@@ -1,6 +1,6 @@
 // ignore_for_file: unused_import
 
-import 'package:avex_mobile/core/core.dart';
+import 'package:xeba_mobile/core/core.dart';
 import 'package:flutter/material.dart';
 import 'package:walletconnect_flutter_v2/walletconnect_flutter_v2.dart';
 

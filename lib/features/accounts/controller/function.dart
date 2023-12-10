@@ -1,7 +1,7 @@
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/accounts/view/view_more_account_page.dart';
-import 'package:avex_mobile/provider/provider.dart';
-import 'package:avex_mobile/model/account/account_collection.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/accounts/view/view_more_account_page.dart';
+import 'package:xeba_mobile/provider/provider.dart';
+import 'package:xeba_mobile/model/account/account_collection.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';

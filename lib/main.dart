@@ -30,7 +30,7 @@ class App extends ConsumerWidget {
     final router = ref.watch(routerProvider);
     return MaterialApp.router(
       debugShowCheckedModeBanner: false,
-      title: 'Avex',
+      title: 'Xeba',
       darkTheme: ThemeData(
         brightness: Brightness.dark,
         scaffoldBackgroundColor: Palette.background,

@@ -11,8 +11,8 @@
 
 // ignore_for_file: dead_code, unused_import
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:googleapis/appengine/v1.dart';
 

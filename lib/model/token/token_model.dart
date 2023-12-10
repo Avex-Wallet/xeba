@@ -2,8 +2,8 @@
 import 'dart:convert';
 import 'dart:math';
 
-import 'package:avex_mobile/core/enums/network_chain.dart';
-import 'package:avex_mobile/core/utils/functions.dart';
+import 'package:xeba_mobile/core/enums/network_chain.dart';
+import 'package:xeba_mobile/core/utils/functions.dart';
 import 'package:isar/isar.dart';
 
 part 'token_model.g.dart';

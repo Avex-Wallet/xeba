@@ -2,12 +2,12 @@
 
 import 'dart:math';
 
-import 'package:avex_mobile/features/home/bottom_navbar/home.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/features/history/views/pages/transaction_detail_screen.dart';
-import 'package:avex_mobile/features/history/views/components/native_nft_txn_button.widget.dart';
-import 'package:avex_mobile/features/history/views/components/native_token_txn_bottom_sheet.dart';
-import 'package:avex_mobile/main.dart';
+import 'package:xeba_mobile/features/home/bottom_navbar/home.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/history/views/pages/transaction_detail_screen.dart';
+import 'package:xeba_mobile/features/history/views/components/native_nft_txn_button.widget.dart';
+import 'package:xeba_mobile/features/history/views/components/native_token_txn_bottom_sheet.dart';
+import 'package:xeba_mobile/main.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';

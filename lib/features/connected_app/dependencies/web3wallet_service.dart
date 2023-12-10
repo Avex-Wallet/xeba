@@ -6,15 +6,15 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:get_it/get_it.dart';
 import 'package:walletconnect_flutter_v2/walletconnect_flutter_v2.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/bottom_sheet/i_bottom_sheet_service.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/i_web3wallet_service.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/key_service/chain_key.dart';
-import 'package:avex_mobile/features/connected_app/dependencies/key_service/i_key_service.dart';
-import 'package:avex_mobile/features/connected_app/utils/dart_defines.dart';
-import 'package:avex_mobile/features/connected_app/widgets/wc_connection_request/wc_auth_request_model.dart';
-import 'package:avex_mobile/features/connected_app/widgets/wc_connection_request/wc_connection_request_widget.dart';
-import 'package:avex_mobile/features/connected_app/widgets/wc_connection_request/wc_session_request_model.dart';
-import 'package:avex_mobile/features/connected_app/widgets/wc_request_widget.dart/wc_request_widget.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/bottom_sheet/i_bottom_sheet_service.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/i_web3wallet_service.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/key_service/chain_key.dart';
+import 'package:xeba_mobile/features/connected_app/dependencies/key_service/i_key_service.dart';
+import 'package:xeba_mobile/features/connected_app/utils/dart_defines.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/wc_connection_request/wc_auth_request_model.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/wc_connection_request/wc_connection_request_widget.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/wc_connection_request/wc_session_request_model.dart';
+import 'package:xeba_mobile/features/connected_app/widgets/wc_request_widget.dart/wc_request_widget.dart';
 
 class Web3WalletService extends IWeb3WalletService {
   final IBottomSheetService _bottomSheetHandler =

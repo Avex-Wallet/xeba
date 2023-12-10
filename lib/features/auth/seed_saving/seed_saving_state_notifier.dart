@@ -8,10 +8,10 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:path_provider/path_provider.dart';
 
-import 'package:avex_mobile/services/api_services/api_response.dart';
-import 'package:avex_mobile/services/api_services/api_services.dart';
-import 'package:avex_mobile/services/drive_service/google_drive/drive_main_service.dart';
-import 'package:avex_mobile/services/local_services/secure_storage/secure_storage.dart';
+import 'package:xeba_mobile/services/api_services/api_response.dart';
+import 'package:xeba_mobile/services/api_services/api_services.dart';
+import 'package:xeba_mobile/services/drive_service/google_drive/drive_main_service.dart';
+import 'package:xeba_mobile/services/local_services/secure_storage/secure_storage.dart';
 
 part 'seed_saving_state_notifier.freezed.dart';
 
@@ -108,7 +108,7 @@ class SeedSavingStateNotifier
   Future<File> _createLevelFile() async {
     Directory appDocDir = await getApplicationDocumentsDirectory();
     String appDocPath = appDocDir.path;
-    File file = File('$appDocPath/AvexWalletBackupSecret');
+    File file = File('$appDocPath/XebaWalletBackupSecret');
     return await file.create();
   }
 

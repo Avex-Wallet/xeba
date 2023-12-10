@@ -2,14 +2,14 @@ import 'package:flutter/material.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-class AvexWebview extends ConsumerStatefulWidget {
-  const AvexWebview({super.key});
+class XebaWebview extends ConsumerStatefulWidget {
+  const XebaWebview({super.key});
 
   @override
-  ConsumerState<AvexWebview> createState() => _AvexWebviewState();
+  ConsumerState<XebaWebview> createState() => _XebaWebviewState();
 }
 
-class _AvexWebviewState extends ConsumerState<AvexWebview> {
+class _XebaWebviewState extends ConsumerState<XebaWebview> {
   late InAppWebViewController webViewController;
   double progress = 0;
   String url = '';

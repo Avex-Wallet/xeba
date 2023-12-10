@@ -2,7 +2,7 @@
 
 import 'dart:async';
 import 'dart:io';
-import 'package:avex_mobile/features/auth/seed_saving/seed_saving_state_notifier.dart';
+import 'package:xeba_mobile/features/auth/seed_saving/seed_saving_state_notifier.dart';
 import 'package:dio/dio.dart';
 import 'package:dropbox_client/dropbox_client.dart';
 import 'package:flutter/material.dart';
@@ -10,7 +10,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-import 'package:avex_mobile/core/core.dart';
+import 'package:xeba_mobile/core/core.dart';
 import 'package:bip32_ed25519/src/bip32_ed25519/ed25519_extended.dart';
 
 void showCloudKeyBackup({
@@ -203,7 +203,7 @@ class _DriveWidgetState extends State<DriveWidget> {
     if (await checkAuthorized(true)) {
       final result = await Dropbox.listFolder(path);
       logger.t('result $result');
-      final url = await Dropbox.getTemporaryLink('/AvexWalletBackupSecret');
+      final url = await Dropbox.getTemporaryLink('/XebaWalletBackupSecret');
       final res = await Dio().get(url ?? '');
       logger.t(res.data);
       setState(() {
@@ -263,16 +263,16 @@ class _DriveWidgetState extends State<DriveWidget> {
                   try {
                     if (await checkAuthorized(true)) {
                       var tempDir = await getTemporaryDirectory();
-                      var filepath = '${tempDir.path}/AvexWalletBackupSecret';
+                      var filepath = '${tempDir.path}/XebaWalletBackupSecret';
                       File(filepath).writeAsStringSync(widget.driveKey);
 
                       final result = await Dropbox.upload(filepath,
-                          '/AvexWalletBackupSecret', (uploaded, total) {});
+                          '/XebaWalletBackupSecret', (uploaded, total) {});
                       // //print(result);
 
                       // Verify
                       final url = await Dropbox.getTemporaryLink(
-                          '/AvexWalletBackupSecret');
+                          '/XebaWalletBackupSecret');
                       final res = await Dio().get(url ?? '');
                       if (res.data == widget.driveKey) {
                         ref
