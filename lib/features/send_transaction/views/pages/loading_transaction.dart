@@ -1,14 +1,14 @@
 // ignore_for_file: use_build_context_synchronously, unused_result
 
-import 'package:avex_mobile/config/router/router.dart';
+import 'package:xeba_mobile/config/router/router.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:lottie/lottie.dart';
 
-import 'package:avex_mobile/core/themes/themes.dart';
-import 'package:avex_mobile/features/send_transaction/controllers/send_fund_controller.dart';
-import 'package:avex_mobile/features/token/controller/tokenlist_provider.dart';
+import 'package:xeba_mobile/core/themes/themes.dart';
+import 'package:xeba_mobile/features/send_transaction/controllers/send_fund_controller.dart';
+import 'package:xeba_mobile/features/token/controller/tokenlist_provider.dart';
 
 class LoadingTransaction extends ConsumerStatefulWidget {
   const LoadingTransaction({super.key});

@@ -1,6 +1,6 @@
 // ignore_for_file: depend_on_referenced_packages
 
-import 'package:avex_mobile/features/send_transaction/views/components/select_asset_bottomsheet.dart';
+import 'package:xeba_mobile/features/send_transaction/views/components/select_asset_bottomsheet.dart';
 import 'package:eddsa_hmac/constants/network.dart';
 import 'package:eddsa_hmac/services/evm/core/main.service.dart' as evm;
 import 'package:eddsa_hmac/services/evm/erc20.service.dart' as erc20;
@@ -12,8 +12,8 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:web3dart/web3dart.dart'
     show Credentials, EtherAmount, EthereumAddress, Transaction, Web3Client;
 
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/features/send_transaction/models/txn.model.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/send_transaction/models/txn.model.dart';
 
 final txnProvider = StateNotifierProvider<TxnNotifier, Txn>((ref) {
   final address = ref.watch(accountProvider).address;

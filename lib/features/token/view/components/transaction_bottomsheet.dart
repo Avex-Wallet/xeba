@@ -1,4 +1,4 @@
-import 'package:avex_mobile/features/token/view/pages/token_detail_screen.dart';
+import 'package:xeba_mobile/features/token/view/pages/token_detail_screen.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
@@ -6,12 +6,12 @@ import 'package:path_provider/path_provider.dart';
 import 'package:screenshot/screenshot.dart';
 import 'package:share_plus/share_plus.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/features/token/view/widgets/stats_tile_widget.dart';
-import 'package:avex_mobile/main.dart';
-import 'package:avex_mobile/model/token/token_model.dart';
-import 'package:avex_mobile/model/token/token_transaction_model.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/token/view/widgets/stats_tile_widget.dart';
+import 'package:xeba_mobile/main.dart';
+import 'package:xeba_mobile/model/token/token_model.dart';
+import 'package:xeba_mobile/model/token/token_transaction_model.dart';
 
 showTokenTransactionBottomSheet({
   required BuildContext context,

@@ -9,7 +9,7 @@ import 'package:google_sign_in/google_sign_in.dart';
 import 'package:googleapis/drive/v3.dart' as drive;
 import 'package:path/path.dart' as path;
 
-import 'package:avex_mobile/services/api_services/api_response.dart';
+import 'package:xeba_mobile/services/api_services/api_response.dart';
 import 'google_auth_client.dart';
 
 abstract class GoogleClient {

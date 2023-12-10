@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:avex_mobile/core/core.dart';
+import 'package:xeba_mobile/core/core.dart';
 
 class AttributeSectionWidget extends StatelessWidget {
   const AttributeSectionWidget({required this.attributes, super.key});

@@ -1,13 +1,13 @@
-import 'package:avex_mobile/provider/isar_provider.dart';
+import 'package:xeba_mobile/provider/isar_provider.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:isar/isar.dart';
 
-import 'package:avex_mobile/core/utils/utils.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/model/account/account_collection.dart';
-import 'package:avex_mobile/services/local_services/shared_pref/shared_pref.dart';
+import 'package:xeba_mobile/core/utils/utils.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/model/account/account_collection.dart';
+import 'package:xeba_mobile/services/local_services/shared_pref/shared_pref.dart';
 
-export 'package:avex_mobile/model/account/account_collection.dart';
+export 'package:xeba_mobile/model/account/account_collection.dart';
 
 final accountListProvider =
     StateNotifierProvider<AccountDbNotifier, List<Account>>(

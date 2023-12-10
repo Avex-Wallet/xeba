@@ -8,10 +8,10 @@ import 'package:ens_dart/ens_dart.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:http/http.dart' as http;
 
-import 'package:avex_mobile/core/enums/network_chain.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/features/accounts/view/view_more_account_page.dart';
-import 'package:avex_mobile/main.dart';
+import 'package:xeba_mobile/core/enums/network_chain.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/accounts/view/view_more_account_page.dart';
+import 'package:xeba_mobile/main.dart';
 
 Future<String> getBalance(String address, int i, WidgetRef ref) async {
   final chain = ref.read(currentNetworkChainProvider);

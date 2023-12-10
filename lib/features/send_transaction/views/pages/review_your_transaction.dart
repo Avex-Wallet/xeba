@@ -7,12 +7,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/features/send_transaction/controllers/send_fund_controller.dart';
-import 'package:avex_mobile/features/send_transaction/models/txn.model.dart';
-import 'package:avex_mobile/features/send_transaction/views/widgets/section_heading.widget.dart';
-import 'package:avex_mobile/main.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/send_transaction/controllers/send_fund_controller.dart';
+import 'package:xeba_mobile/features/send_transaction/models/txn.model.dart';
+import 'package:xeba_mobile/features/send_transaction/views/widgets/section_heading.widget.dart';
+import 'package:xeba_mobile/main.dart';
 
 class ReviewYourTransaction extends ConsumerStatefulWidget {
   const ReviewYourTransaction({super.key, required this.txn});

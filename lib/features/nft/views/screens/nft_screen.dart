@@ -13,14 +13,14 @@ import 'package:screenshot/screenshot.dart';
 import 'package:share_plus/share_plus.dart';
 import 'package:video_player/video_player.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/nft/views/screens/video_fullscreen_mode.dart';
-import 'package:avex_mobile/features/nft/views/widgets/about_section.widget.dart';
-import 'package:avex_mobile/features/nft/views/widgets/attributes_section.widget.dart';
-import 'package:avex_mobile/features/nft/views/widgets/detail_section_widget.dart';
-import 'package:avex_mobile/features/nft/views/widgets/nft_controller_section.widget.dart';
-import 'package:avex_mobile/features/nft/views/widgets/playspeed_chip.dart';
-import 'package:avex_mobile/model/nft/nft_model.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/nft/views/screens/video_fullscreen_mode.dart';
+import 'package:xeba_mobile/features/nft/views/widgets/about_section.widget.dart';
+import 'package:xeba_mobile/features/nft/views/widgets/attributes_section.widget.dart';
+import 'package:xeba_mobile/features/nft/views/widgets/detail_section_widget.dart';
+import 'package:xeba_mobile/features/nft/views/widgets/nft_controller_section.widget.dart';
+import 'package:xeba_mobile/features/nft/views/widgets/playspeed_chip.dart';
+import 'package:xeba_mobile/model/nft/nft_model.dart';
 
 enum NftType { Image, Video, Audio, Model }
 

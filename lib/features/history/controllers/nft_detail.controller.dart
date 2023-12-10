@@ -4,8 +4,8 @@ import 'dart:convert';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:http/http.dart' as http;
 
-import 'package:avex_mobile/core/enums/network_chain.dart';
-import 'package:avex_mobile/main.dart';
+import 'package:xeba_mobile/core/enums/network_chain.dart';
+import 'package:xeba_mobile/main.dart';
 
 class NftDetailBody {
   String contractAddress;

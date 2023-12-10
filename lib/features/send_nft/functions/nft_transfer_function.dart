@@ -6,9 +6,9 @@ import 'package:eddsa_hmac/swap.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/core/enums/enums.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/core/enums/enums.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
 
 Future<BigInt?> getGas({
   required WidgetRef ref,

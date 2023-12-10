@@ -8,13 +8,13 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:http/http.dart' as http;
 
-import 'package:avex_mobile/config/router/router.dart';
-import 'package:avex_mobile/core/assets/assets.gen.dart';
-import 'package:avex_mobile/core/constants/api_endpoints.dart';
-import 'package:avex_mobile/core/utils/functions.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/provider/total_balance_provider.dart';
-import 'package:avex_mobile/services/local_services/secure_storage/secure_storage.dart';
+import 'package:xeba_mobile/config/router/router.dart';
+import 'package:xeba_mobile/core/assets/assets.gen.dart';
+import 'package:xeba_mobile/core/constants/api_endpoints.dart';
+import 'package:xeba_mobile/core/utils/functions.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/provider/total_balance_provider.dart';
+import 'package:xeba_mobile/services/local_services/secure_storage/secure_storage.dart';
 
 final _usernameProvider = FutureProvider((ref) async {
   final accessToken = await SecureStorage.accessToken.value;

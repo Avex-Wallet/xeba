@@ -5,10 +5,10 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:intl/intl.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/features/history/models/native_transaction.model.dart';
-import 'package:avex_mobile/main.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/history/models/native_transaction.model.dart';
+import 'package:xeba_mobile/main.dart';
 
 class TransactionDetailScreen extends ConsumerWidget {
   const TransactionDetailScreen({

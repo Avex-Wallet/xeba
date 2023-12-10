@@ -1,8 +1,8 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
 import 'dart:math';
 
-import 'package:avex_mobile/core/enums/network_chain.dart';
-import 'package:avex_mobile/model/token/token_model.dart';
+import 'package:xeba_mobile/core/enums/network_chain.dart';
+import 'package:xeba_mobile/model/token/token_model.dart';
 
 class SwapValue {
   final TokenModel? token1;

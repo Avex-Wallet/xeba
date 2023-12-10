@@ -3,14 +3,14 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/core/utils/token_loading_listview.dart';
-import 'package:avex_mobile/features/token/controller/native_token_transaction.dart';
-import 'package:avex_mobile/features/token/controller/token_transaction_history.dart';
-import 'package:avex_mobile/features/token/view/widgets/app_bar.dart';
-import 'package:avex_mobile/features/token/view/widgets/token_price_chart.dart';
-import 'package:avex_mobile/features/token/view/widgets/token_transaction_listview.dart';
-import 'package:avex_mobile/model/token/token_model.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/core/utils/token_loading_listview.dart';
+import 'package:xeba_mobile/features/token/controller/native_token_transaction.dart';
+import 'package:xeba_mobile/features/token/controller/token_transaction_history.dart';
+import 'package:xeba_mobile/features/token/view/widgets/app_bar.dart';
+import 'package:xeba_mobile/features/token/view/widgets/token_price_chart.dart';
+import 'package:xeba_mobile/features/token/view/widgets/token_transaction_listview.dart';
+import 'package:xeba_mobile/model/token/token_model.dart';
 
 final ascProvider = StateProvider.autoDispose<bool>((ref) => true);
 final currentSelectedTokenChain = StateProvider.autoDispose<NetworkChain>(

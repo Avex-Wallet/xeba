@@ -1,13 +1,13 @@
 import 'dart:convert';
 
-import 'package:avex_mobile/features/swap/view/components/network_change.widget.dart';
+import 'package:xeba_mobile/features/swap/view/components/network_change.widget.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:http/http.dart' as http;
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/main.dart';
-import 'package:avex_mobile/model/token/token_model.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/main.dart';
+import 'package:xeba_mobile/model/token/token_model.dart';
 
 final swapTokenListProvider =
     FutureProvider.autoDispose<List<TokenModel>>((ref) {

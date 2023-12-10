@@ -4,12 +4,12 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/send_transaction/controllers/function.dart'
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/send_transaction/controllers/function.dart'
     as func;
-import 'package:avex_mobile/features/swap/view/pages/swap_screen.dart';
-import 'package:avex_mobile/features/swap/view/components/network_change.widget.dart';
-import 'package:avex_mobile/features/swap/view/components/token1_selection_bottomsheet.dart';
+import 'package:xeba_mobile/features/swap/view/pages/swap_screen.dart';
+import 'package:xeba_mobile/features/swap/view/components/network_change.widget.dart';
+import 'package:xeba_mobile/features/swap/view/components/token1_selection_bottomsheet.dart';
 
 class TokenBox1 extends ConsumerStatefulWidget {
   const TokenBox1({super.key});

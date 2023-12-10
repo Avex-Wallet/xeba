@@ -2,7 +2,7 @@
 
 import 'dart:math';
 
-import 'package:avex_mobile/services/local_services/db/account_db.dart';
+import 'package:xeba_mobile/services/local_services/db/account_db.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -10,10 +10,10 @@ import 'package:flutter_gravatar/flutter_gravatar.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/features/send_transaction/controllers/function.dart';
-import 'package:avex_mobile/main.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/send_transaction/controllers/function.dart';
+import 'package:xeba_mobile/main.dart';
 
 Future<dynamic> changeAccount(BuildContext context) {
   return showModalBottomSheet(

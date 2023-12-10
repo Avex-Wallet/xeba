@@ -1,4 +1,4 @@
-import 'package:avex_mobile/core/core.dart';
+import 'package:xeba_mobile/core/core.dart';
 import 'package:flutter/material.dart';
 import 'package:video_player/video_player.dart';
 

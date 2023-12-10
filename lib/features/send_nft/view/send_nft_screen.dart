@@ -1,15 +1,15 @@
 // ignore_for_file: curly_braces_in_flow_control_structures
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/features/auth/username/service/user_service.dart';
-import 'package:avex_mobile/features/send_nft/functions/nft_transfer_function.dart';
-import 'package:avex_mobile/features/send_nft/view/nft_trans_processing_screen.dart';
-import 'package:avex_mobile/features/send_transaction/controllers/function.dart';
-import 'package:avex_mobile/services/local_services/secure_storage/secure_storage.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/auth/username/service/user_service.dart';
+import 'package:xeba_mobile/features/send_nft/functions/nft_transfer_function.dart';
+import 'package:xeba_mobile/features/send_nft/view/nft_trans_processing_screen.dart';
+import 'package:xeba_mobile/features/send_transaction/controllers/function.dart';
+import 'package:xeba_mobile/services/local_services/secure_storage/secure_storage.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 
-import 'package:avex_mobile/model/nft/nft_model.dart';
+import 'package:xeba_mobile/model/nft/nft_model.dart';
 import 'package:flutter_gravatar/flutter_gravatar.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shimmer/shimmer.dart';

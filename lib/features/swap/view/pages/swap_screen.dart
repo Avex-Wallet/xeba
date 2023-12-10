@@ -1,16 +1,16 @@
 // ignore_for_file: curly_braces_in_flow_control_structures, use_build_context_synchronously
 
-import 'package:avex_mobile/features/advance_send/processing_screen.dart';
+import 'package:xeba_mobile/features/advance_send/processing_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/swap/controller/search.controller.dart';
-import 'package:avex_mobile/features/swap/view/components/network_change.widget.dart';
-import 'package:avex_mobile/features/swap/view/components/token_box_1.dart';
-import 'package:avex_mobile/features/swap/view/components/token_box_2.dart';
-import 'package:avex_mobile/features/swap/view/widgets/circular_swap_button.dart';
-import 'package:avex_mobile/model/token/token_model.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/swap/controller/search.controller.dart';
+import 'package:xeba_mobile/features/swap/view/components/network_change.widget.dart';
+import 'package:xeba_mobile/features/swap/view/components/token_box_1.dart';
+import 'package:xeba_mobile/features/swap/view/components/token_box_2.dart';
+import 'package:xeba_mobile/features/swap/view/widgets/circular_swap_button.dart';
+import 'package:xeba_mobile/model/token/token_model.dart';
 
 final chainTabIndexProvider = StateProvider<int>((ref) => 0);
 final token1Provider =

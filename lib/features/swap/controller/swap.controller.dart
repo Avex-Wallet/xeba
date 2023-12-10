@@ -11,10 +11,10 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:web3dart/web3dart.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/core/enums/enums.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/features/swap/view/pages/swap_screen.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/core/enums/enums.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/swap/view/pages/swap_screen.dart';
 
 Future<TransactionState> initiateTransactionRouter(
     {bool send = false, required WidgetRef ref, BuildContext? context}) async {

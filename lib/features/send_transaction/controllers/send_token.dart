@@ -1,14 +1,14 @@
 import 'dart:convert';
 
-import 'package:avex_mobile/features/send_transaction/views/components/select_asset_bottomsheet.dart';
+import 'package:xeba_mobile/features/send_transaction/views/components/select_asset_bottomsheet.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:http/http.dart' as http;
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/main.dart';
-import 'package:avex_mobile/model/token/token_model.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/main.dart';
+import 'package:xeba_mobile/model/token/token_model.dart';
 
 final sendTokenListProvider = FutureProvider<List<TokenModel>>((ref) async {
   final chain = ref.watch(sendNetworkProvider);

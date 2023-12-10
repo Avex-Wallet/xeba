@@ -1,10 +1,10 @@
-import 'package:avex_mobile/model/token/token_model.dart';
-import 'package:avex_mobile/provider/provider.dart';
+import 'package:xeba_mobile/model/token/token_model.dart';
+import 'package:xeba_mobile/provider/provider.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:fpdart/fpdart.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/model/token/token_transaction_model.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/model/token/token_transaction_model.dart';
 
 final tokenTransactionHistoryProvider = FutureProvider.family<
     Either<List<TokenTransactionModel>, ServerError>, TokenModel>((ref, token) {

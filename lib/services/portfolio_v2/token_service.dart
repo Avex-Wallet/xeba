@@ -5,8 +5,8 @@ import 'dart:convert';
 import 'package:fpdart/fpdart.dart';
 import 'package:http/http.dart' as http;
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/model/token/token_model.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/model/token/token_model.dart';
 
 typedef FutureTokenList = Future<Either<List<TokenModel>, String>>;
 

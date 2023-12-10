@@ -5,7 +5,7 @@ import 'dart:io';
 import 'package:dio/dio.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/services/local_services/secure_storage/secure_storage.dart';
+import 'package:xeba_mobile/services/local_services/secure_storage/secure_storage.dart';
 
 import '../../model/models.dart';
 import '../../model/requests/delete_secret_request.dart';

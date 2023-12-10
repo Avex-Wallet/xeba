@@ -2,19 +2,19 @@
 
 import 'dart:async';
 
-import 'package:avex_mobile/core/utils/utils.dart';
-import 'package:avex_mobile/provider/connectivity_provider.dart';
-import 'package:avex_mobile/services/local_services/shared_pref/shared_pref.dart';
+import 'package:xeba_mobile/core/utils/utils.dart';
+import 'package:xeba_mobile/provider/connectivity_provider.dart';
+import 'package:xeba_mobile/services/local_services/shared_pref/shared_pref.dart';
 import 'package:firebase_dynamic_links/firebase_dynamic_links.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/config/config.dart';
-import 'package:avex_mobile/core/assets/assets.gen.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/provider/isar_provider.dart';
-import 'package:avex_mobile/services/local_services/secure_storage/secure_storage.dart';
-import 'package:avex_mobile/services/user/user_service.dart';
+import 'package:xeba_mobile/config/config.dart';
+import 'package:xeba_mobile/core/assets/assets.gen.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/provider/isar_provider.dart';
+import 'package:xeba_mobile/services/local_services/secure_storage/secure_storage.dart';
+import 'package:xeba_mobile/services/user/user_service.dart';
 
 class SplashScreen extends ConsumerStatefulWidget {
   const SplashScreen({super.key});

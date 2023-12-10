@@ -1,14 +1,14 @@
 // ignore_for_file: curly_braces_in_flow_control_structures
 
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/features/token/view/pages/token_detail_screen.dart';
-import 'package:avex_mobile/features/token/view/components/transaction_bottomsheet.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/token/view/pages/token_detail_screen.dart';
+import 'package:xeba_mobile/features/token/view/components/transaction_bottomsheet.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/model/token/token_model.dart';
-import 'package:avex_mobile/model/token/token_transaction_model.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/model/token/token_model.dart';
+import 'package:xeba_mobile/model/token/token_transaction_model.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 class TokenTransactionListView extends ConsumerWidget {

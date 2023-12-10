@@ -3,10 +3,10 @@ import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'dart:convert';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/main.dart';
-import 'package:avex_mobile/model/nft/nft_model.dart';
-import 'package:avex_mobile/services/portfolio_v2/nft_services.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/main.dart';
+import 'package:xeba_mobile/model/nft/nft_model.dart';
+import 'package:xeba_mobile/services/portfolio_v2/nft_services.dart';
 
 typedef NetworkNFT = Map<NetworkChain, List<NFTModel>>;
 

@@ -1,4 +1,4 @@
-import 'package:avex_mobile/features/profile/view/verify_profile.dart';
+import 'package:xeba_mobile/features/profile/view/verify_profile.dart';
 import 'package:flutter/material.dart';
 
 class YourProfile extends StatefulWidget {

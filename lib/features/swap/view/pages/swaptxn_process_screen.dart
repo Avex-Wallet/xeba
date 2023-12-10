@@ -1,13 +1,13 @@
 // ignore_for_file: use_build_context_synchronously, unused_result
 
-import 'package:avex_mobile/core/enums/enums.dart';
-import 'package:avex_mobile/features/swap/controller/swap.controller.dart';
-import 'package:avex_mobile/features/token/controller/tokenlist_provider.dart';
+import 'package:xeba_mobile/core/enums/enums.dart';
+import 'package:xeba_mobile/features/swap/controller/swap.controller.dart';
+import 'package:xeba_mobile/features/token/controller/tokenlist_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:lottie/lottie.dart';
 
-import 'package:avex_mobile/core/core.dart';
+import 'package:xeba_mobile/core/core.dart';
 
 class SwapTxnProcessScreen extends ConsumerStatefulWidget {
   const SwapTxnProcessScreen({super.key});

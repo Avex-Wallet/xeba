@@ -1,4 +1,4 @@
-package com.example.avex_mobile
+package com.example.xeba_mobile
 
 import io.flutter.embedding.android.FlutterActivity
 

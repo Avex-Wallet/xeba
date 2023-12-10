@@ -1,8 +1,8 @@
-import 'package:avex_mobile/provider/provider.dart';
+import 'package:xeba_mobile/provider/provider.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:fpdart/fpdart.dart';
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/model/nft/nft_model.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/model/nft/nft_model.dart';
 
 typedef NFTResponse = Either<(List<NFTModel>, String), String>;
 

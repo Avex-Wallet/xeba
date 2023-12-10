@@ -1,13 +1,13 @@
 // ignore_for_file: unused_result
 
-import 'package:avex_mobile/features/home/bottom_navbar/home.dart';
+import 'package:xeba_mobile/features/home/bottom_navbar/home.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/core/utils/token_loading_listview.dart';
-import 'package:avex_mobile/features/transaction_history/controller/transaction_history_provider.dart';
-import 'package:avex_mobile/features/transaction_history/views/widget/txn_display_tile.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/core/utils/token_loading_listview.dart';
+import 'package:xeba_mobile/features/transaction_history/controller/transaction_history_provider.dart';
+import 'package:xeba_mobile/features/transaction_history/views/widget/txn_display_tile.dart';
 
 final txnPaginateProvider = StateProvider.autoDispose<bool>((ref) => false);
 

@@ -3,7 +3,7 @@
 import 'package:dio/dio.dart';
 import 'package:retrofit/dio.dart';
 import 'package:retrofit/http.dart';
-import 'package:avex_mobile/model/requests/get_nft_request.dart';
+import 'package:xeba_mobile/model/requests/get_nft_request.dart';
 
 part 'avex_portfolio_client.g.dart';
 

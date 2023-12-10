@@ -2,8 +2,8 @@
 
 import 'dart:convert';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/services/local_services/secure_storage/secure_storage.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/services/local_services/secure_storage/secure_storage.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:flutter_riverpod/flutter_riverpod.dart';

@@ -4,8 +4,8 @@ import 'package:dio/dio.dart';
 import 'package:retrofit/dio.dart';
 import 'package:retrofit/http.dart';
 
-import 'package:avex_mobile/model/models.dart';
-import 'package:avex_mobile/model/requests/delete_secret_request.dart';
+import 'package:xeba_mobile/model/models.dart';
+import 'package:xeba_mobile/model/requests/delete_secret_request.dart';
 
 part "avex_api_client.g.dart";
 

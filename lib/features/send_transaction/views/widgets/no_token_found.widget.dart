@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:avex_mobile/core/core.dart';
+import 'package:xeba_mobile/core/core.dart';
 
 class NoTokenFoundWidget extends StatelessWidget {
   const NoTokenFoundWidget({

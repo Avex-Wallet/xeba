@@ -5,9 +5,9 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:http/http.dart' as http;
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/swap/model/token_hits.dart';
-import 'package:avex_mobile/features/swap/view/pages/swap_screen.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/swap/model/token_hits.dart';
+import 'package:xeba_mobile/features/swap/view/pages/swap_screen.dart';
 
 final searchTokenProvider = StateNotifierProvider.autoDispose<
     SearchTokenNotifier, (List<TokenHit>, bool)>(

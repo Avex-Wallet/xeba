@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/token/controller/tokenlist_provider.dart';
-import 'package:avex_mobile/features/token/view/widgets/token_tile.dart';
-import 'package:avex_mobile/main.dart';
-import 'package:avex_mobile/provider/connectivity_provider.dart';
-import 'package:avex_mobile/services/local_services/db/token_db.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/token/controller/tokenlist_provider.dart';
+import 'package:xeba_mobile/features/token/view/widgets/token_tile.dart';
+import 'package:xeba_mobile/main.dart';
+import 'package:xeba_mobile/provider/connectivity_provider.dart';
+import 'package:xeba_mobile/services/local_services/db/token_db.dart';
 
 class TokenTabV2 extends ConsumerWidget {
   const TokenTabV2({super.key});

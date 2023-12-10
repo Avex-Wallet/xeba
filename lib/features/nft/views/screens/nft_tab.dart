@@ -3,11 +3,11 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/nft/controllers/all_chain_nft.controller.dart';
-import 'package:avex_mobile/features/nft/controllers/current_chain_nft.controller.dart';
-import 'package:avex_mobile/features/nft/views/widgets/all_nft_grid.dart';
-import 'package:avex_mobile/main.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/nft/controllers/all_chain_nft.controller.dart';
+import 'package:xeba_mobile/features/nft/controllers/current_chain_nft.controller.dart';
+import 'package:xeba_mobile/features/nft/views/widgets/all_nft_grid.dart';
+import 'package:xeba_mobile/main.dart';
 
 // final _loading = StateProvider.autoDispose<bool>((ref) => false);
 

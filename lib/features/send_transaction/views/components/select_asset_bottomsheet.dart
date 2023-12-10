@@ -1,13 +1,13 @@
-import 'package:avex_mobile/features/token/controller/tokenlist_provider.dart';
+import 'package:xeba_mobile/features/token/controller/tokenlist_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/send_transaction/controllers/send_token.dart';
-import 'package:avex_mobile/features/send_transaction/views/components/send_token_tile.dart';
-import 'package:avex_mobile/model/token/token_model.dart';
-import 'package:avex_mobile/features/token/view/widgets/only_native_token_widget.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/send_transaction/controllers/send_token.dart';
+import 'package:xeba_mobile/features/send_transaction/views/components/send_token_tile.dart';
+import 'package:xeba_mobile/model/token/token_model.dart';
+import 'package:xeba_mobile/features/token/view/widgets/only_native_token_widget.dart';
 
 final sendNetworkProvider =
     StateProvider<NetworkChain>((ref) => NetworkChain.ethereumMainnet);

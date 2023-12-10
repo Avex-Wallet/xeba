@@ -1,4 +1,4 @@
-import 'package:avex_mobile/core/themes/themes.dart';
+import 'package:xeba_mobile/core/themes/themes.dart';
 import 'package:flutter/material.dart';
 
 class Label extends StatelessWidget {

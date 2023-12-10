@@ -1,10 +1,10 @@
 import 'dart:math';
 
-import 'package:avex_mobile/core/core.dart';
+import 'package:xeba_mobile/core/core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/features/token/controller/tokenlist_provider.dart';
+import 'package:xeba_mobile/features/token/controller/tokenlist_provider.dart';
 
 class EmptyTokenList extends ConsumerWidget {
   const EmptyTokenList({

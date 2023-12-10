@@ -3,12 +3,12 @@
 import 'package:dio/dio.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/features/transaction_history/views/screens/transaction_history_screen.dart';
-import 'package:avex_mobile/main.dart';
-import 'package:avex_mobile/model/token/token_transaction_model.dart';
-import 'package:avex_mobile/provider/provider.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/transaction_history/views/screens/transaction_history_screen.dart';
+import 'package:xeba_mobile/main.dart';
+import 'package:xeba_mobile/model/token/token_transaction_model.dart';
+import 'package:xeba_mobile/provider/provider.dart';
 
 final chainList = [
   "ethereum",

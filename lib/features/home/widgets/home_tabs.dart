@@ -1,5 +1,5 @@
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/home/current_network_chain/views/dashboard_network_tab.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/home/current_network_chain/views/dashboard_network_tab.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../dashboard.dart';

@@ -1,6 +1,6 @@
 // ignore_for_file: dead_code
 
-import 'package:avex_mobile/model/nft/nft_model.dart';
+import 'package:xeba_mobile/model/nft/nft_model.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:avex_mobile/core/themes/app_theme.dart';
+import 'package:xeba_mobile/core/themes/app_theme.dart';
 
 class StatTileWidget extends StatelessWidget {
   const StatTileWidget(

@@ -1,4 +1,4 @@
-import 'package:avex_mobile/core/themes/app_theme.dart';
+import 'package:xeba_mobile/core/themes/app_theme.dart';
 import 'package:flutter/material.dart';
 
 class VerifyProfile extends StatefulWidget {

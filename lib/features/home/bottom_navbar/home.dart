@@ -2,8 +2,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/connected_app/init_function.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/connected_app/init_function.dart';
 
 class HomePage extends ConsumerStatefulWidget {
   const HomePage(this.child, {super.key});

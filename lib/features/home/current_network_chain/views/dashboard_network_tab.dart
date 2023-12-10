@@ -6,10 +6,10 @@ import 'package:flutter_animate/flutter_animate.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/history/controllers/native_transaction.controller.dart';
-import 'package:avex_mobile/features/nft/controllers/current_chain_nft.controller.dart';
-import 'package:avex_mobile/main.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/history/controllers/native_transaction.controller.dart';
+import 'package:xeba_mobile/features/nft/controllers/current_chain_nft.controller.dart';
+import 'package:xeba_mobile/main.dart';
 
 class DashboardNetworkTab extends ConsumerWidget {
   const DashboardNetworkTab({super.key});

@@ -1,6 +1,6 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first, constant_identifier_names
 
-import 'package:avex_mobile/model/token/token_model.dart';
+import 'package:xeba_mobile/model/token/token_model.dart';
 
 enum Speed { Slow, Average, Fast }
 

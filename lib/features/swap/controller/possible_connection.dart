@@ -1,10 +1,10 @@
-import 'package:avex_mobile/model/token/token_model.dart';
+import 'package:xeba_mobile/model/token/token_model.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/core/enums/network_chain.dart';
-import 'package:avex_mobile/core/utils/utils.dart';
-import 'package:avex_mobile/features/swap/view/pages/swap_screen.dart';
-import 'package:avex_mobile/provider/provider.dart';
+import 'package:xeba_mobile/core/enums/network_chain.dart';
+import 'package:xeba_mobile/core/utils/utils.dart';
+import 'package:xeba_mobile/features/swap/view/pages/swap_screen.dart';
+import 'package:xeba_mobile/provider/provider.dart';
 
 final possibleConnectionProvider = FutureProvider.autoDispose<Set<String>>(
   (ref) {

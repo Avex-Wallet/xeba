@@ -2,24 +2,24 @@
 
 import 'dart:math';
 
-import 'package:avex_mobile/features/advance_send/processing_screen.dart';
-import 'package:avex_mobile/services/local_services/secure_storage/secure_storage.dart';
+import 'package:xeba_mobile/features/advance_send/processing_screen.dart';
+import 'package:xeba_mobile/services/local_services/secure_storage/secure_storage.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/features/auth/username/service/user_service.dart';
-import 'package:avex_mobile/features/send_transaction/controllers/function.dart';
-import 'package:avex_mobile/features/send_transaction/controllers/send_fund_controller.dart';
-import 'package:avex_mobile/features/send_transaction/models/txn.model.dart';
-import 'package:avex_mobile/features/send_transaction/views/components/account_section.widget.dart';
-import 'package:avex_mobile/features/send_transaction/views/components/app_bar.dart';
-import 'package:avex_mobile/features/send_transaction/views/components/select_asset_bottomsheet.dart';
-import 'package:avex_mobile/features/send_transaction/views/widgets/label.widget.dart';
-import 'package:avex_mobile/main.dart';
-import 'package:avex_mobile/model/token/token_model.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/auth/username/service/user_service.dart';
+import 'package:xeba_mobile/features/send_transaction/controllers/function.dart';
+import 'package:xeba_mobile/features/send_transaction/controllers/send_fund_controller.dart';
+import 'package:xeba_mobile/features/send_transaction/models/txn.model.dart';
+import 'package:xeba_mobile/features/send_transaction/views/components/account_section.widget.dart';
+import 'package:xeba_mobile/features/send_transaction/views/components/app_bar.dart';
+import 'package:xeba_mobile/features/send_transaction/views/components/select_asset_bottomsheet.dart';
+import 'package:xeba_mobile/features/send_transaction/views/widgets/label.widget.dart';
+import 'package:xeba_mobile/main.dart';
+import 'package:xeba_mobile/model/token/token_model.dart';
 
 final assetIndexProvider = StateProvider.autoDispose<int>(
     (ref) => ref.read(currentNetworkChainProvider).index);

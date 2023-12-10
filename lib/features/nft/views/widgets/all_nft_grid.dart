@@ -1,12 +1,12 @@
-import 'package:avex_mobile/config/router/router.dart';
+import 'package:xeba_mobile/config/router/router.dart';
 import 'package:blur/blur.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 
-import 'package:avex_mobile/core/assets/assets.gen.dart';
-import 'package:avex_mobile/core/utils/functions.dart';
-import 'package:avex_mobile/core/utils/widget.dart';
-import 'package:avex_mobile/model/nft/nft_model.dart';
+import 'package:xeba_mobile/core/assets/assets.gen.dart';
+import 'package:xeba_mobile/core/utils/functions.dart';
+import 'package:xeba_mobile/core/utils/widget.dart';
+import 'package:xeba_mobile/model/nft/nft_model.dart';
 
 class AllNFTWidget extends StatefulWidget {
   const AllNFTWidget(

@@ -5,11 +5,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/swap/view/components/network_change.widget.dart';
-import 'package:avex_mobile/features/swap/view/pages/swap_screen.dart';
-import 'package:avex_mobile/main.dart';
-import 'package:avex_mobile/model/token/token_model.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/swap/view/components/network_change.widget.dart';
+import 'package:xeba_mobile/features/swap/view/pages/swap_screen.dart';
+import 'package:xeba_mobile/main.dart';
+import 'package:xeba_mobile/model/token/token_model.dart';
 
 class TokenTile extends ConsumerWidget {
   const TokenTile({required this.index, super.key});

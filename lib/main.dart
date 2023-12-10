@@ -5,8 +5,8 @@ import 'package:firebase_dynamic_links/firebase_dynamic_links.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_phoenix/flutter_phoenix.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:avex_mobile/config/firebase/firebase_options.dart';
-import 'package:avex_mobile/core/core.dart';
+import 'package:xeba_mobile/config/firebase/firebase_options.dart';
+import 'package:xeba_mobile/core/core.dart';
 
 final allChainSelected = StateProvider<bool>((ref) => false);
 final currentNetworkChainProvider = StateProvider<NetworkChain>(

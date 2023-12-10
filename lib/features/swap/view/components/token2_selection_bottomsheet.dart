@@ -1,13 +1,13 @@
-import 'package:avex_mobile/features/swap/controller/possible_connection.dart';
+import 'package:xeba_mobile/features/swap/controller/possible_connection.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shimmer/shimmer.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/swap/controller/search.controller.dart';
-import 'package:avex_mobile/features/swap/view/pages/swap_screen.dart';
-import 'package:avex_mobile/model/token/token_model.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/swap/controller/search.controller.dart';
+import 'package:xeba_mobile/features/swap/view/pages/swap_screen.dart';
+import 'package:xeba_mobile/model/token/token_model.dart';
 
 Future token2SelectionBox(
     BuildContext context, TextEditingController controller) async {

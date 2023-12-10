@@ -1,6 +1,6 @@
 // ignore_for_file: depend_on_referenced_packages
 
-import 'package:avex_mobile/services/local_services/secure_storage/secure_storage.dart';
+import 'package:xeba_mobile/services/local_services/secure_storage/secure_storage.dart';
 import 'package:bip32_ed25519/bip32_ed25519.dart';
 import 'package:convert/convert.dart';
 import 'package:eddsa_hmac/services/wallet/key.service.dart';

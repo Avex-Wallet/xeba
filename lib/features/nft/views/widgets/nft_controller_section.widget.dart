@@ -1,8 +1,8 @@
-import 'package:avex_mobile/config/router/router.dart';
-import 'package:avex_mobile/core/themes/palette.dart';
+import 'package:xeba_mobile/config/router/router.dart';
+import 'package:xeba_mobile/core/themes/palette.dart';
 // ignore: unused_import
-import 'package:avex_mobile/features/send_nft/view/send_nft_screen.dart';
-import 'package:avex_mobile/model/nft/nft_model.dart';
+import 'package:xeba_mobile/features/send_nft/view/send_nft_screen.dart';
+import 'package:xeba_mobile/model/nft/nft_model.dart';
 import 'package:flutter/material.dart';
 
 class NftControllerSectionWidget extends StatelessWidget {

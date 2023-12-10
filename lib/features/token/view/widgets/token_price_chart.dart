@@ -2,10 +2,10 @@ import 'package:chart_sparkline/chart_sparkline.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/core/enums/chart_enum.dart';
-import 'package:avex_mobile/features/token/controller/chart_controller.dart';
-import 'package:avex_mobile/model/token/token_model.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/core/enums/chart_enum.dart';
+import 'package:xeba_mobile/features/token/controller/chart_controller.dart';
+import 'package:xeba_mobile/model/token/token_model.dart';
 
 class TokenPriceChart extends ConsumerStatefulWidget {
   const TokenPriceChart({super.key, required this.token});

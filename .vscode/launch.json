@@ -11,18 +11,18 @@
       "mainClass": "Solution"
     },
     {
-      "name": "avex_mobile_v1",
+      "name": "xeba_mobile_v1",
       "request": "launch",
       "type": "dart"
     },
     {
-      "name": "avex_mobile_v1 (profile mode)",
+      "name": "xeba_mobile_v1 (profile mode)",
       "request": "launch",
       "type": "dart",
       "flutterMode": "profile"
     },
     {
-      "name": "avex_mobile_v1 (release mode)",
+      "name": "xeba_mobile_v1 (release mode)",
       "request": "launch",
       "type": "dart",
       "flutterMode": "release"

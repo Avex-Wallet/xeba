@@ -2,9 +2,9 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/swap/view/components/token2_selection_bottomsheet.dart';
-import 'package:avex_mobile/features/swap/view/pages/swap_screen.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/swap/view/components/token2_selection_bottomsheet.dart';
+import 'package:xeba_mobile/features/swap/view/pages/swap_screen.dart';
 
 class TokenBox2 extends ConsumerStatefulWidget {
   const TokenBox2({super.key});

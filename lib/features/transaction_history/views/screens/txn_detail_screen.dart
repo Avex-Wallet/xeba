@@ -1,12 +1,12 @@
-import 'package:avex_mobile/model/token/token_transaction_model.dart';
+import 'package:xeba_mobile/model/token/token_transaction_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:intl/intl.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/main.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/main.dart';
 
 class TxnDetailScreen extends ConsumerWidget {
   const TxnDetailScreen({

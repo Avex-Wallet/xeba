@@ -1,9 +1,9 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:isar/isar.dart';
 
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/model/token/token_model.dart';
-import 'package:avex_mobile/provider/isar_provider.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/model/token/token_model.dart';
+import 'package:xeba_mobile/provider/isar_provider.dart';
 
 final tokenDbListProvider =
     StateNotifierProvider.family<TokenDbNotifier, List<TokenModel>, int>(

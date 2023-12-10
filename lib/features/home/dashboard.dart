@@ -1,25 +1,25 @@
 import 'dart:math';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/features/home/bottom_navbar/home.dart';
-import 'package:avex_mobile/features/home/drawer/drawer.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/features/home/bottom_navbar/home.dart';
+import 'package:xeba_mobile/features/home/drawer/drawer.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:dots_indicator/dots_indicator.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:avex_mobile/config/router/router.dart';
-import 'package:avex_mobile/core/themes/themes.dart';
-import 'package:avex_mobile/features/accounts/controller/account.controller.dart';
-import 'package:avex_mobile/features/advance_send/adv_send.dart';
-import 'package:avex_mobile/features/home/receive_bottom_sheet.dart';
-import 'package:avex_mobile/features/home/widgets/account_card.dart';
-import 'package:avex_mobile/features/home/widgets/home_tabs.dart';
-import 'package:avex_mobile/features/home/widgets/sliver_app_bar_delegate.dart';
-import 'package:avex_mobile/features/home/widgets/symbol_button.dart';
-import 'package:avex_mobile/features/nft/views/screens/nft_tab.dart';
-import 'package:avex_mobile/features/profile/view/your_profile.dart';
-import 'package:avex_mobile/features/token/view/components/token_tab.dart';
+import 'package:xeba_mobile/config/router/router.dart';
+import 'package:xeba_mobile/core/themes/themes.dart';
+import 'package:xeba_mobile/features/accounts/controller/account.controller.dart';
+import 'package:xeba_mobile/features/advance_send/adv_send.dart';
+import 'package:xeba_mobile/features/home/receive_bottom_sheet.dart';
+import 'package:xeba_mobile/features/home/widgets/account_card.dart';
+import 'package:xeba_mobile/features/home/widgets/home_tabs.dart';
+import 'package:xeba_mobile/features/home/widgets/sliver_app_bar_delegate.dart';
+import 'package:xeba_mobile/features/home/widgets/symbol_button.dart';
+import 'package:xeba_mobile/features/nft/views/screens/nft_tab.dart';
+import 'package:xeba_mobile/features/profile/view/your_profile.dart';
+import 'package:xeba_mobile/features/token/view/components/token_tab.dart';
 
 List<String> tabsTexts = ["Tokens", "NFTs"];
 

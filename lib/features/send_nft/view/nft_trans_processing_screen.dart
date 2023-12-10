@@ -4,12 +4,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:lottie/lottie.dart';
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/core/enums/enums.dart';
-import 'package:avex_mobile/features/send_nft/functions/nft_transfer_function.dart';
-import 'package:avex_mobile/features/send_nft/view/send_nft_screen.dart';
-import 'package:avex_mobile/features/token/controller/tokenlist_provider.dart';
-import 'package:avex_mobile/model/nft/nft_model.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/core/enums/enums.dart';
+import 'package:xeba_mobile/features/send_nft/functions/nft_transfer_function.dart';
+import 'package:xeba_mobile/features/send_nft/view/send_nft_screen.dart';
+import 'package:xeba_mobile/features/token/controller/tokenlist_provider.dart';
+import 'package:xeba_mobile/model/nft/nft_model.dart';
 
 class NFTTxnProcessScreen extends ConsumerStatefulWidget {
   const NFTTxnProcessScreen({

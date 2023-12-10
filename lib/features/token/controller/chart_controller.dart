@@ -3,9 +3,9 @@ import 'dart:convert';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:http/http.dart' as http;
 
-import 'package:avex_mobile/core/core.dart';
-import 'package:avex_mobile/core/enums/chart_enum.dart';
-import 'package:avex_mobile/model/token/token_model.dart';
+import 'package:xeba_mobile/core/core.dart';
+import 'package:xeba_mobile/core/enums/chart_enum.dart';
+import 'package:xeba_mobile/model/token/token_model.dart';
 
 final chartTabIndex = StateProvider<ChartDay>((ref) => ChartDay.D);
 
