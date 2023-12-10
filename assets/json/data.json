@@ -1,0 +1,85 @@
+{
+    "data": {
+        "address": "0xabcf36b4f2de597aaed37e2c67248091424430ca",
+        "chain_id": 50,
+        "chain_name": "xdc",
+        "updated_at": "2023-10-12T14:39:37.901180723Z",
+        "items": [
+            {
+                "contract_decimals": 18,
+                "contract_name": "XDC Network",
+                "contract_ticker_symbol": "XDC",
+                "contract_address": "0x0000000000000000000000000000000000001010",
+                "logo_url": "https://assets.coingecko.com/coins/images/2912/standard/xdc-icon.png?1696503661",
+                "last_transferred_at": "2023-09-08T12:13:38Z",
+                "native_token": true,
+                "type_": null,
+                "is_spam": false,
+                "balance": "92108008579917861994",
+                "quote_rate": 0.51,
+                "quote": 0.4697511,
+                "pretty_quote": "$0.04681387"
+            },
+            {
+                "contract_decimals": 18,
+                "contract_name": "Stasis Euro",
+                "contract_ticker_symbol": "EURS",
+                "contract_address": "0xedcfb6984a3c70501baa8b7f5421ae795ecc1496",
+                "logo_url": "https://assets.coingecko.com/coins/images/5164/standard/EURS_300x300.png?1696505680",
+                "last_transferred_at": "2022-12-28T02:04:59Z",
+                "native_token": false,
+                "type_": null,
+                "is_spam": false,
+                "balance": "1000000000",
+                "quote_rate": 7.2761e-6,
+                "quote": 1.06,
+                "pretty_quote": "$1.06"
+            },
+            {
+                "contract_decimals": 18,
+                "contract_name": "Ecoin",
+                "contract_ticker_symbol": "Ecoin",
+                "contract_address": "0xf58f1be0ff8e56a1a1da7595f8edacb7e1f15608",
+                "logo_url": "https://assets.coingecko.com/coins/images/10849/standard/IMG_4307.jpg?1696510805",
+                "last_transferred_at": "2023-08-22T02:23:01Z",
+                "native_token": false,
+                "type_": null,
+                "is_spam": false,
+                "balance": "1250000000000000000000",
+                "quote_rate": null,
+                "quote": 0.00007162,
+                "pretty_quote": "$0.00007162"
+            },
+            {
+                "contract_decimals": 18,
+                "contract_name": "Globiance Exchange",
+                "contract_ticker_symbol": "GBEX",
+                "contract_address": "0xf58f1be0ff8e56a1a1da7595f8edacb7e1f15608",
+                "logo_url": "https://assets.coingecko.com/coins/images/24859/standard/gbex.png?1696524019",
+                "last_transferred_at": "2023-08-22T02:23:01Z",
+                "native_token": false,
+                "type_": null,
+                "is_spam": false,
+                "balance": "545000000000000000000",
+                "quote_rate": null,
+                "quote": 0.000000058680,
+                "pretty_quote": "$0.000000058680"
+            },
+            {
+                "contract_decimals": 18,
+                "contract_name": "StorX",
+                "contract_ticker_symbol": "SRX",
+                "contract_address": "0xf58f1be0ff8e56a1a1da7595f8edacb7e1f15608",
+                "logo_url": "https://assets.coingecko.com/coins/images/16922/standard/StorX_Logo_white_300x300-01.png?1696516493",
+                "last_transferred_at": "2023-08-22T02:23:01Z",
+                "native_token": false,
+                "type_": null,
+                "is_spam": false,
+                "balance": "24500000000000000000",
+                "quote_rate": null,
+                "quote": 0.03754905,
+                "pretty_quote": "$0.03754905"
+            }
+        ]
+    }
+}

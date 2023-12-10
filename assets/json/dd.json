@@ -1,0 +1,1456 @@
+[
+    {
+        "nft_id": "xdc.0xf66eba27a36631d14fde611e52bff661846507fc.0",
+        "chain": "xdc",
+        "contract_address": "0xF66EBA27A36631d14FDe611E52BfF661846507fC",
+        "token_id": "0",
+        "name": "BONE Voucher 88 of 100",
+        "description": "Congratulations! You can exchange this BONE voucher for $30000 USDC at the official site: https://shibnft.cc",
+        "previews": {
+            "image_small_url": "https://lh3.googleusercontent.com/tEY1dpwTlMvlqvKX5JT-KyHWYMRdjHLnpk-YR25S8cm-aaa04dzSWhXHOUzaeNM2FpZNJFejcn_hF6-omMoL7UUxQIF99UWrjEiA=s250",
+            "image_medium_url": "https://lh3.googleusercontent.com/tEY1dpwTlMvlqvKX5JT-KyHWYMRdjHLnpk-YR25S8cm-aaa04dzSWhXHOUzaeNM2FpZNJFejcn_hF6-omMoL7UUxQIF99UWrjEiA",
+            "image_large_url": "https://lh3.googleusercontent.com/tEY1dpwTlMvlqvKX5JT-KyHWYMRdjHLnpk-YR25S8cm-aaa04dzSWhXHOUzaeNM2FpZNJFejcn_hF6-omMoL7UUxQIF99UWrjEiA=s1000",
+            "image_opengraph_url": "https://lh3.googleusercontent.com/tEY1dpwTlMvlqvKX5JT-KyHWYMRdjHLnpk-YR25S8cm-aaa04dzSWhXHOUzaeNM2FpZNJFejcn_hF6-omMoL7UUxQIF99UWrjEiA=k-w1200-s2400-rj",
+            "blurhash": "UNO0lTj[QAoLw3f6TIayaPj[t*f7O;aym-kB",
+            "predominant_color": "#cc3d24"
+        },
+        "image_url": "https://cdn.simplehash.com/assets/2f4254eabaf1446bce3fe777ef3e4d51b7bca4057856e021d427bd7638aaac71.png",
+        "image_properties": {
+            "width": 512,
+            "height": 512,
+            "size": 26420,
+            "mime_type": "image/png"
+        },
+        "video_url": null,
+        "video_properties": null,
+        "audio_url": null,
+        "audio_properties": null,
+        "model_url": null,
+        "model_properties": null,
+        "background_color": null,
+        "external_link": null,
+        "created_date": "2023-10-08T07:41:51",
+        "status": "minted",
+        "owners": [
+            {
+                "owner_address": "0x0029aC2c466EA5B57A62982bFfa249AB7d6cf779",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x003D0aB1735aEdAdD89255f75a1c3369E4FD21EC",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x005709425B84359Dd8E6934CB4ec075ce27BBcC4",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x006f958f98C7A27DF77905AA72AD7c91C5ECDd5D",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x0077b7f22175dc584311e6B8C4Bb733Df888E857",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x009551A836590FdD291D59d03a07e7D25c7b5b29",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x00bb8dDFc467D28979540EFbF4E7448fFd1e5108",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x00BdE4C02a920aC7BbfaEa32b72Bb51343E6Cd74",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x00E359Dbb90f8aE6f83F8053f97bd423bc530Acb",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x012196f930929F82406A6aCE436E1808c1095dF5",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x0123F0E2F681ed70B79a453796EFe88B662c8b11",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x015B3eF05943fE13B14690b7EF5c7211a69befEc",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x01aA451e6B28C73Bd556eb88E819628b857b089F",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x01B648Bddb7235451F17f22e76efa62d240EB925",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x01dd4B6Bdcb734D81d4b9D82515AadC3815650ea",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x01DEfF961b28bb74c5a61EaD1eeDaBC174FC4971",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x0204B1CcaC4217Eea56320a0a83E7fc148564b53",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x02379C8f2261dc6A84787b2dBA715C6664086577",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x02395a905386f4F307F7C7afa9B03568b645b931",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x024Cc6B8f6b88E599add89c9c10707f1C9b6b4f5",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x025861Ee12dEf762e4d9927f159cC82e3233e64a",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x028f02b6B63580B2d6Eb2C8C49fEeCf1AAF9A28a",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x02957852B50e6265E242987009A88a83b295d9d1",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x02960cba5bFCeFA45E4e1414bB95aD935066B743",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x029a3797456a255FD4c4803eC04A79cd49F92E54",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x02B6A255f1b9A16BB97Bb9ccC1127F6cF8a17A5e",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x02C450b8816620903cE51735C7D901a8748639b6",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x02d045975B98146268F610D59329dCD5B9128e98",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x02D36ABAc11bcecb23233704B73154bCb2C99eff",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x02f1C34a760BA9B01D867B324C0C8d865c2BE205",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x031FF7Cb61ecC4D5e3466Fb97004A2D56b5B38cF",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x03327B01798D159455F2Bb77Ee8Da72C0086CD15",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x033e1FB8231B119230281FeF15C7975410d2f2fF",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x0349ce9c9b0D074027393273A7CF72646BA8771f",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x03509F5c6BfBc0C8768755244F47b5f81badcFb3",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x035C1f1E8347272Ee3E118C0AFb6C65f683e5e83",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x0376fA82676fA0Dc8842b7B843682aC2F82Afc0a",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x0377F9732225ee2982BF67431FD9E80751Bea7c1",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x0395793Dc0002dDef78AB278d1bD0c50bbB66762",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x03C48f581C9017263d9eDB10f46d315E449a658e",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x03c9a9D23fa9e6487D30A4d90033034eFc371706",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x03Ee5C43A79b51f574072bBf00b52057DE1C6bE3",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x042BB29cd4Af236D6057208EeEfDDec4aA081458",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x043951E7B2f1c438ED8dAc37d96375158c30F1b8",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x04973e3f47f5ffA916137F2f5755485982AA9159",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x04d6E0D608DC2470d51E6e87D9998997C93dA0F1",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x04D7c41AfF8E0ef4Ce182A715E510C96239502B7",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x04d981aBcD97164ec759E421AFDCbB1F2dDAA341",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x0503220876d985b3D6d0E617bCfBf8d0098211AA",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            },
+            {
+                "owner_address": "0x050841F44C026B6C82070F3344109E512eADd6e3",
+                "first_acquired_date": "2023-10-08T11:08:42",
+                "last_acquired_date": "2023-10-08T12:04:21"
+            }
+        ],
+        "last_sale": null,
+        "first_created": {
+            "minted_to": "0xea88AC58bdBD5912b5287Ee3F37A2d3c769eB487",
+            "timestamp": "2023-10-08T07:41:51",
+            "block_number": 48466086,
+            "transaction": "0x90398d74b9f1f288b923fd10ed1602f4b39dd8b704a831f2fff054d645264ed5",
+            "transaction_initiator": "0xc2c979463FCd0629BCE17Ac49186E4E338cBacB0"
+        },
+        "contract": {
+            "type": "ERC1155",
+            "name": "$100,000 A BONE",
+            "symbol": "Voucher",
+            "deployed_by": "0xc2c979463FCd0629BCE17Ac49186E4E338cBacB0",
+            "deployed_via_contract": null
+        },
+        "collection": {
+            "collection_id": "5d52fd0dfcbada71ce2bf9e6ce20be24",
+            "name": "$100,000 A BONE",
+            "description": null,
+            "image_url": null,
+            "banner_image_url": null,
+            "category": null,
+            "is_nsfw": false,
+            "external_url": null,
+            "twitter_username": null,
+            "discord_url": null,
+            "instagram_url": null,
+            "medium_username": null,
+            "telegram_url": null,
+            "marketplace_pages": [
+                {
+                    "marketplace_id": "magiceden",
+                    "marketplace_name": "Magic Eden",
+                    "marketplace_collection_id": "0xf66eba27a36631d14fde611e52bff661846507fc",
+                    "nft_url": "https://magiceden.io/item-details/xdc/0xf66eba27a36631d14fde611e52bff661846507fc/0",
+                    "collection_url": "https://magiceden.io/collections/xdc/0xf66eba27a36631d14fde611e52bff661846507fc",
+                    "verified": null
+                },
+                {
+                    "marketplace_id": "opensea",
+                    "marketplace_name": "OpenSea",
+                    "marketplace_collection_id": "100000-a-bone-3",
+                    "nft_url": "https://opensea.io/assets/matic/0xf66eba27a36631d14fde611e52bff661846507fc/0",
+                    "collection_url": "https://opensea.io/collection/100000-a-bone-3",
+                    "verified": false
+                }
+            ],
+            "metaplex_mint": null,
+            "metaplex_first_verified_creator": null,
+            "spam_score": null,
+            "floor_prices": [
+                {
+                    "marketplace_id": "magiceden",
+                    "value": 100000000000000000000,
+                    "payment_token": {
+                        "payment_token_id": "xdc.0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+                        "name": "Wrapped Ether",
+                        "symbol": "WETH",
+                        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+                        "decimals": 18
+                    }
+                }
+            ],
+            "top_contracts": [
+                "xdc.0xf66eba27a36631d14fde611e52bff661846507fc"
+            ]
+        },
+        "rarity": {
+            "rank": null,
+            "score": null,
+            "unique_attributes": null
+        },
+        "royalty": [
+            {
+                "source": "opensea",
+                "total_creator_fee_basis_points": 0,
+                "recipients": []
+            }
+        ],
+        "extra_metadata": {
+            "attributes": [
+                {
+                    "trait_type": "Website :",
+                    "value": "https://shibnft.cc/",
+                    "display_type": null
+                }
+            ],
+            "image_original_url": "https://shibnft.cc/nft3.png",
+            "animation_original_url": null,
+            "metadata_original_url": "https://shibnft.cc/80.json"
+        }
+    },
+    {
+        "nft_id": "xdc.0xb939119f4a3cc673438bf58416a54c99aac223c6.0",
+        "chain": "xdc",
+        "contract_address": "0xB939119F4a3Cc673438Bf58416A54C99AAc223c6",
+        "token_id": "0",
+        "name": "USDC VOUCHER",
+        "description": "Rеdееm your vоuchеr for 4,801 USDС at usdсsсаn.соm",
+        "previews": {
+            "image_small_url": "https://lh3.googleusercontent.com/vdtzrfGE6-z21Gczpcd5emEuRqRaKHbhoFiYYil-6F3Q6D2VnevNrLdE4mQU-5jowezv6CR2kufut_AqCmheLlDRr4W2A-s5kra-=s250",
+            "image_medium_url": "https://lh3.googleusercontent.com/vdtzrfGE6-z21Gczpcd5emEuRqRaKHbhoFiYYil-6F3Q6D2VnevNrLdE4mQU-5jowezv6CR2kufut_AqCmheLlDRr4W2A-s5kra-",
+            "image_large_url": "https://lh3.googleusercontent.com/vdtzrfGE6-z21Gczpcd5emEuRqRaKHbhoFiYYil-6F3Q6D2VnevNrLdE4mQU-5jowezv6CR2kufut_AqCmheLlDRr4W2A-s5kra-=s1000",
+            "image_opengraph_url": "https://lh3.googleusercontent.com/vdtzrfGE6-z21Gczpcd5emEuRqRaKHbhoFiYYil-6F3Q6D2VnevNrLdE4mQU-5jowezv6CR2kufut_AqCmheLlDRr4W2A-s5kra-=k-w1200-s2400-rj",
+            "blurhash": "UJM*,X5m=xxI33c6bdi{tfx:NwWFECEmn#R*",
+            "predominant_color": "#d5e9f9"
+        },
+        "image_url": "https://cdn.simplehash.com/assets/bfb84e18b7e5b1185361e2de5272503d15b53e580746de353d90df13cef90c77.gif",
+        "image_properties": {
+            "width": 1000,
+            "height": 1000,
+            "size": 7182582,
+            "mime_type": "image/gif"
+        },
+        "video_url": null,
+        "video_properties": null,
+        "audio_url": null,
+        "audio_properties": null,
+        "model_url": null,
+        "model_properties": null,
+        "background_color": null,
+        "external_link": null,
+        "created_date": "2023-10-06T20:43:17",
+        "status": "minted",
+        "owners": [
+            {
+                "owner_address": "0x000004E26b750C88708d44681fBBbC947EA41D72",
+                "first_acquired_date": "2023-10-06T20:48:50",
+                "last_acquired_date": "2023-10-06T20:48:50"
+            },
+            {
+                "owner_address": "0x00000d1eE6056095C3677C45Fa152606b0D93E8e",
+                "first_acquired_date": "2023-10-06T20:48:50",
+                "last_acquired_date": "2023-10-06T20:48:50"
+            },
+            {
+                "owner_address": "0x00003053eDBD79FE1050119216c1B8370408715e",
+                "first_acquired_date": "2023-10-06T20:48:50",
+                "last_acquired_date": "2023-10-06T20:48:50"
+            },
+            {
+                "owner_address": "0x000077b446aB9845949D03B8e9187cb195C80BD1",
+                "first_acquired_date": "2023-10-06T20:51:50",
+                "last_acquired_date": "2023-10-06T20:51:50"
+            },
+            {
+                "owner_address": "0x0000Bc43c4f30fea0088f3A5A2bceaE7c636Bdb8",
+                "first_acquired_date": "2023-10-06T20:43:17",
+                "last_acquired_date": "2023-10-06T20:43:17"
+            },
+            {
+                "owner_address": "0x0001859725d8AD57401188C87a1AB1f065F1710D",
+                "first_acquired_date": "2023-10-06T20:46:04",
+                "last_acquired_date": "2023-10-06T20:46:04"
+            },
+            {
+                "owner_address": "0x00029661AEf25F23bdD8EC3cB0e72E99ceB4DE15",
+                "first_acquired_date": "2023-10-06T20:43:17",
+                "last_acquired_date": "2023-10-06T20:43:17"
+            },
+            {
+                "owner_address": "0x001e60935C892fd22EDE6bf9Cc990AD27309176e",
+                "first_acquired_date": "2023-10-06T20:51:50",
+                "last_acquired_date": "2023-10-06T20:51:50"
+            },
+            {
+                "owner_address": "0x002590fDb17A2B8aa24D18FDeEbEB77A13857979",
+                "first_acquired_date": "2023-10-06T20:51:50",
+                "last_acquired_date": "2023-10-06T20:51:50"
+            },
+            {
+                "owner_address": "0x00261A1a4b961Bb8363faa79cB4aD0a504459a1d",
+                "first_acquired_date": "2023-10-06T20:51:50",
+                "last_acquired_date": "2023-10-06T20:51:50"
+            },
+            {
+                "owner_address": "0x0044B420B2e573e230CF85D0DdbDC2510eED3316",
+                "first_acquired_date": "2023-10-06T20:48:50",
+                "last_acquired_date": "2023-10-06T20:48:50"
+            },
+            {
+                "owner_address": "0x0051afAccC2689932643fC5B2fAF9b37789F0dD3",
+                "first_acquired_date": "2023-10-06T20:51:50",
+                "last_acquired_date": "2023-10-06T20:51:50"
+            },
+            {
+                "owner_address": "0x0054797e10D0E03B346ec2011B5ACc99CC78E468",
+                "first_acquired_date": "2023-10-06T20:43:17",
+                "last_acquired_date": "2023-10-06T20:43:17"
+            },
+            {
+                "owner_address": "0x006C5e042c01Fff6Ca0cFd8759313bDcF5ae622d",
+                "first_acquired_date": "2023-10-06T20:48:50",
+                "last_acquired_date": "2023-10-06T20:48:50"
+            },
+            {
+                "owner_address": "0x00708A912333D4DEdfD004F62D57eEFa78271A55",
+                "first_acquired_date": "2023-10-06T20:43:17",
+                "last_acquired_date": "2023-10-06T20:43:17"
+            },
+            {
+                "owner_address": "0x00725b9eB28C8FD472590274FEfF863d5b048756",
+                "first_acquired_date": "2023-10-06T20:48:50",
+                "last_acquired_date": "2023-10-06T20:48:50"
+            },
+            {
+                "owner_address": "0x007b29F56Aa636F2Cb4DdBA2AC638e138Fa61794",
+                "first_acquired_date": "2023-10-06T20:51:50",
+                "last_acquired_date": "2023-10-06T20:51:50"
+            },
+            {
+                "owner_address": "0x007C35e80C7aae08d0110b30e33183a279dcc60e",
+                "first_acquired_date": "2023-10-06T20:43:17",
+                "last_acquired_date": "2023-10-06T20:43:17"
+            },
+            {
+                "owner_address": "0x007FFF4BA0fAeC39a62a0078ee89017c592d058F",
+                "first_acquired_date": "2023-10-06T20:46:04",
+                "last_acquired_date": "2023-10-06T20:46:04"
+            },
+            {
+                "owner_address": "0x00917468ded97141deB40a0307Caf9Ff9a07f4c0",
+                "first_acquired_date": "2023-10-06T20:43:17",
+                "last_acquired_date": "2023-10-06T20:43:17"
+            },
+            {
+                "owner_address": "0x009329467307c0983bff2b3c77843E1876CBa524",
+                "first_acquired_date": "2023-10-06T20:48:50",
+                "last_acquired_date": "2023-10-06T20:48:50"
+            },
+            {
+                "owner_address": "0x0097E802bb17585683D91cBaBDfe2A3750106Ed2",
+                "first_acquired_date": "2023-10-06T20:48:50",
+                "last_acquired_date": "2023-10-06T20:48:50"
+            },
+            {
+                "owner_address": "0x009F5D2b696E738C59Dc610EBfCbAf3013168f06",
+                "first_acquired_date": "2023-10-06T20:43:17",
+                "last_acquired_date": "2023-10-06T20:43:17"
+            },
+            {
+                "owner_address": "0x00A2212D13590A50B44fF51A9dD5b5880e04c6Bc",
+                "first_acquired_date": "2023-10-06T20:43:17",
+                "last_acquired_date": "2023-10-06T20:43:17"
+            },
+            {
+                "owner_address": "0x00A698dD58036be783264327dbCc364DA5867A25",
+                "first_acquired_date": "2023-10-06T20:48:50",
+                "last_acquired_date": "2023-10-06T20:48:50"
+            },
+            {
+                "owner_address": "0x00A6C7aA30be699d2Afef1DA1e8883a439687A25",
+                "first_acquired_date": "2023-10-06T20:48:50",
+                "last_acquired_date": "2023-10-06T20:48:50"
+            },
+            {
+                "owner_address": "0x00A7236f96cFD4990351efe82f9086e6C9c44f88",
+                "first_acquired_date": "2023-10-06T20:43:17",
+                "last_acquired_date": "2023-10-06T20:43:17"
+            },
+            {
+                "owner_address": "0x00adAf53242Ac779121F1AF237eEfA31ecAc09B7",
+                "first_acquired_date": "2023-10-06T20:48:50",
+                "last_acquired_date": "2023-10-06T20:48:50"
+            },
+            {
+                "owner_address": "0x00B0de1AF4fA155B0AfeEfEb22b518E3dCd4dF42",
+                "first_acquired_date": "2023-10-06T20:46:04",
+                "last_acquired_date": "2023-10-06T20:46:04"
+            },
+            {
+                "owner_address": "0x00B32310156d585Eb87704B4214aFf17f251947E",
+                "first_acquired_date": "2023-10-06T20:48:50",
+                "last_acquired_date": "2023-10-06T20:48:50"
+            },
+            {
+                "owner_address": "0x00Cd9715E1ba6171806d00157d079EBd784B163d",
+                "first_acquired_date": "2023-10-06T20:51:50",
+                "last_acquired_date": "2023-10-06T20:51:50"
+            },
+            {
+                "owner_address": "0x00Ce50415564c419A47e363f1baA44D055b35220",
+                "first_acquired_date": "2023-10-06T20:48:50",
+                "last_acquired_date": "2023-10-06T20:48:50"
+            },
+            {
+                "owner_address": "0x00d70Af19DcF5FeF9AEa8FA28f09fbf2cd58D9aC",
+                "first_acquired_date": "2023-10-06T20:51:50",
+                "last_acquired_date": "2023-10-06T20:51:50"
+            },
+            {
+                "owner_address": "0x00d8c7d525E4F25A827BEe5a76f1678Ce3478B3e",
+                "first_acquired_date": "2023-10-06T20:51:50",
+                "last_acquired_date": "2023-10-06T20:51:50"
+            },
+            {
+                "owner_address": "0x00e3B02445c94661CabdAFC03f35cc19A9411f2e",
+                "first_acquired_date": "2023-10-06T20:48:50",
+                "last_acquired_date": "2023-10-06T20:48:50"
+            },
+            {
+                "owner_address": "0x00F3e52AEBbB6e4Aa6a3b9c69EC13fC623cf09dc",
+                "first_acquired_date": "2023-10-06T20:46:04",
+                "last_acquired_date": "2023-10-06T20:46:04"
+            },
+            {
+                "owner_address": "0x01112e8997D07C81Cd6a5964c416693E035590D8",
+                "first_acquired_date": "2023-10-06T20:48:50",
+                "last_acquired_date": "2023-10-06T20:48:50"
+            },
+            {
+                "owner_address": "0x01231C42dd30D8172223D9B11C820e198De8aD6a",
+                "first_acquired_date": "2023-10-06T20:46:04",
+                "last_acquired_date": "2023-10-06T20:46:04"
+            },
+            {
+                "owner_address": "0x012730771F66671A8625c142654b1BF2F5b098f9",
+                "first_acquired_date": "2023-10-06T20:51:50",
+                "last_acquired_date": "2023-10-06T20:51:50"
+            },
+            {
+                "owner_address": "0x012efb71035d48eD2223B46Fc4478F3021c983aC",
+                "first_acquired_date": "2023-10-06T20:43:17",
+                "last_acquired_date": "2023-10-06T20:43:17"
+            },
+            {
+                "owner_address": "0x013d984d9c4b9cF4798eA82A6057c33bCCa3aE8D",
+                "first_acquired_date": "2023-10-06T20:51:50",
+                "last_acquired_date": "2023-10-06T20:51:50"
+            },
+            {
+                "owner_address": "0x01476B8aC56eC119F751C8AED480B65bc8d966Dc",
+                "first_acquired_date": "2023-10-06T20:51:50",
+                "last_acquired_date": "2023-10-06T20:51:50"
+            },
+            {
+                "owner_address": "0x014a8dDb981ec5f32f0bB08AaBF3c78142F31B59",
+                "first_acquired_date": "2023-10-06T20:46:04",
+                "last_acquired_date": "2023-10-06T20:46:04"
+            },
+            {
+                "owner_address": "0x015BA6B16b83061f776949edc65abA7dbbe556d0",
+                "first_acquired_date": "2023-10-06T20:48:50",
+                "last_acquired_date": "2023-10-06T20:48:50"
+            },
+            {
+                "owner_address": "0x016379BB0d1516dEC4Ccef0022B482E7F21B32bE",
+                "first_acquired_date": "2023-10-06T20:48:50",
+                "last_acquired_date": "2023-10-06T20:48:50"
+            },
+            {
+                "owner_address": "0x01639c8e8186f73df51ead021b4b40aeCf293E28",
+                "first_acquired_date": "2023-10-06T20:46:04",
+                "last_acquired_date": "2023-10-06T20:46:04"
+            },
+            {
+                "owner_address": "0x017501Cf39cfd98c1515b9888AeA602328ae8311",
+                "first_acquired_date": "2023-10-06T20:51:50",
+                "last_acquired_date": "2023-10-06T20:51:50"
+            },
+            {
+                "owner_address": "0x017C868C64B7B8F44f1F58fC027526B3f37BBC54",
+                "first_acquired_date": "2023-10-06T20:43:17",
+                "last_acquired_date": "2023-10-06T20:43:17"
+            },
+            {
+                "owner_address": "0x017E5d6dEcf9a921e5d7609C10646CbCbBeB52d3",
+                "first_acquired_date": "2023-10-06T20:46:04",
+                "last_acquired_date": "2023-10-06T20:46:04"
+            },
+            {
+                "owner_address": "0x017ed96E5984B9502F8E022d96c5d528C43fD068",
+                "first_acquired_date": "2023-10-06T20:51:50",
+                "last_acquired_date": "2023-10-06T20:51:50"
+            }
+        ],
+        "last_sale": null,
+        "first_created": {
+            "minted_to": "0xad546e4c1c944a6f938cc2707b15b74eE15341Ee",
+            "timestamp": "2023-10-06T20:43:17",
+            "block_number": 48409068,
+            "transaction": "0x659f37845d1564c780e5154ba6846728ea41983f01cd17518fad9603428bb6d5",
+            "transaction_initiator": "0x3F344c6C99bF6FC376D5100f02E7142969bAa5F4"
+        },
+        "contract": {
+            "type": "ERC1155",
+            "name": "CLAIM 4801 USDC",
+            "symbol": "USDC VOUCHER",
+            "deployed_by": "0x3F344c6C99bF6FC376D5100f02E7142969bAa5F4",
+            "deployed_via_contract": null
+        },
+        "collection": {
+            "collection_id": "8b70a6fb5d4c20d1a5dbb3444050c054",
+            "name": "USDC VOUCHER",
+            "description": "Rеdееm your vоuchеr for 4,801 USDС at usdсsсаn.соm",
+            "image_url": "https://lh3.googleusercontent.com/vdtzrfGE6-z21Gczpcd5emEuRqRaKHbhoFiYYil-6F3Q6D2VnevNrLdE4mQU-5jowezv6CR2kufut_AqCmheLlDRr4W2A-s5kra-",
+            "banner_image_url": null,
+            "category": null,
+            "is_nsfw": false,
+            "external_url": null,
+            "twitter_username": null,
+            "discord_url": null,
+            "instagram_url": null,
+            "medium_username": null,
+            "telegram_url": null,
+            "marketplace_pages": [
+                {
+                    "marketplace_id": "opensea",
+                    "marketplace_name": "OpenSea",
+                    "marketplace_collection_id": "usdc-voucher-599",
+                    "nft_url": "https://opensea.io/assets/matic/0xb939119f4a3cc673438bf58416a54c99aac223c6/0",
+                    "collection_url": "https://opensea.io/collection/usdc-voucher-599",
+                    "verified": false
+                }
+            ],
+            "metaplex_mint": null,
+            "metaplex_first_verified_creator": null,
+            "spam_score": null,
+            "floor_prices": [],
+            "top_contracts": [
+                "xdc.0xb939119f4a3cc673438bf58416a54c99aac223c6"
+            ]
+        },
+        "rarity": {
+            "rank": null,
+            "score": null,
+            "unique_attributes": null
+        },
+        "royalty": [
+            {
+                "source": "opensea",
+                "total_creator_fee_basis_points": 0,
+                "recipients": []
+            }
+        ],
+        "extra_metadata": {
+            "attributes": [
+                {
+                    "trait_type": "Website :",
+                    "value": "usdcscan.com",
+                    "display_type": null
+                }
+            ],
+            "image_original_url": "https://galaxynebulatech.org/static/secureusdc.gif",
+            "animation_original_url": null,
+            "metadata_original_url": "https://galaxynebulatech.org/static/secureusdc.json"
+        }
+    },
+    {
+        "nft_id": "xdc.0xe0f69397f848d8cf856ab6ad8ba7c23a0a9178dd.0",
+        "chain": "xdc",
+        "contract_address": "0xe0F69397F848D8cf856Ab6Ad8ba7c23a0A9178DD",
+        "token_id": "0",
+        "name": "2000 USDC NFT Voucher",
+        "description": "You have been selected for the USDC NFT Airdrop! Redeem your voucher for 2,000 USDC at https://usdc-token.org",
+        "previews": {
+            "image_small_url": "https://lh3.googleusercontent.com/jepKERYAVL4IUCeScXc7MD-cN8oo5IdOUVFYyEsmYcXUKMFZNJ5B0brNdXe9bR88ngS9uwWZVTUy5CewQf06BQ381ymKjyG5AnbV=s250",
+            "image_medium_url": "https://lh3.googleusercontent.com/jepKERYAVL4IUCeScXc7MD-cN8oo5IdOUVFYyEsmYcXUKMFZNJ5B0brNdXe9bR88ngS9uwWZVTUy5CewQf06BQ381ymKjyG5AnbV",
+            "image_large_url": "https://lh3.googleusercontent.com/jepKERYAVL4IUCeScXc7MD-cN8oo5IdOUVFYyEsmYcXUKMFZNJ5B0brNdXe9bR88ngS9uwWZVTUy5CewQf06BQ381ymKjyG5AnbV=s1000",
+            "image_opengraph_url": "https://lh3.googleusercontent.com/jepKERYAVL4IUCeScXc7MD-cN8oo5IdOUVFYyEsmYcXUKMFZNJ5B0brNdXe9bR88ngS9uwWZVTUy5CewQf06BQ381ymKjyG5AnbV=k-w1200-s2400-rj",
+            "blurhash": "UGNw{F0$=_%2CZOlf,r=-#owNds:NQETacWT",
+            "predominant_color": "#dbeafa"
+        },
+        "image_url": "https://cdn.simplehash.com/assets/5ff438b14c9a22e71846123965d926a1d0c354d733998e6f5912083a6731e78e.png",
+        "image_properties": {
+            "width": 1000,
+            "height": 1000,
+            "size": 628884,
+            "mime_type": "image/png"
+        },
+        "video_url": null,
+        "video_properties": null,
+        "audio_url": null,
+        "audio_properties": null,
+        "model_url": null,
+        "model_properties": null,
+        "background_color": null,
+        "external_link": null,
+        "created_date": "2023-10-06T19:40:10",
+        "status": "minted",
+        "owners": [
+            {
+                "owner_address": "0x00000000000001ad428e4906aE43D8F9852d0dD6",
+                "first_acquired_date": "2023-10-06T19:44:52",
+                "last_acquired_date": "2023-10-06T19:44:52"
+            },
+            {
+                "owner_address": "0x0000000000003D61b3d0a96B70b9c9006947759C",
+                "first_acquired_date": "2023-10-06T19:40:36",
+                "last_acquired_date": "2023-10-06T19:40:36"
+            },
+            {
+                "owner_address": "0x0000000000005E6E93466237335C5466628Ef956",
+                "first_acquired_date": "2023-10-06T19:41:52",
+                "last_acquired_date": "2023-10-06T19:41:52"
+            },
+            {
+                "owner_address": "0x000000000000B6b4C2Dc4f3f12159dF0163f67e9",
+                "first_acquired_date": "2023-10-06T19:41:04",
+                "last_acquired_date": "2023-10-06T19:41:04"
+            },
+            {
+                "owner_address": "0x000000000000E4761cB1bDd2A2e059d3896df95e",
+                "first_acquired_date": "2023-10-06T19:44:18",
+                "last_acquired_date": "2023-10-06T19:44:18"
+            },
+            {
+                "owner_address": "0x0000000000222B212EA77112C9A39b95fA7140e5",
+                "first_acquired_date": "2023-10-06T19:41:06",
+                "last_acquired_date": "2023-10-06T19:41:06"
+            },
+            {
+                "owner_address": "0x0000000001FAD2926559a2FBdb32e145026A99A6",
+                "first_acquired_date": "2023-10-06T19:41:34",
+                "last_acquired_date": "2023-10-06T19:41:34"
+            },
+            {
+                "owner_address": "0x000000000482AA9817645c3d56aA2230F6573532",
+                "first_acquired_date": "2023-10-06T19:41:04",
+                "last_acquired_date": "2023-10-06T19:41:04"
+            },
+            {
+                "owner_address": "0x00000000051CBcE3fD04148CcE2c0adc7c651829",
+                "first_acquired_date": "2023-10-06T19:41:06",
+                "last_acquired_date": "2023-10-06T19:41:06"
+            },
+            {
+                "owner_address": "0x000000000ca5171087C18fB271ca844A2370fC0a",
+                "first_acquired_date": "2023-10-06T19:40:10",
+                "last_acquired_date": "2023-10-06T19:40:10"
+            },
+            {
+                "owner_address": "0x000000000CF248849cc9e61a749966997A8Cd900",
+                "first_acquired_date": "2023-10-06T19:40:52",
+                "last_acquired_date": "2023-10-06T19:40:52"
+            },
+            {
+                "owner_address": "0x000000005c2dC10FF9E1b919330529Fecc619173",
+                "first_acquired_date": "2023-10-06T19:44:28",
+                "last_acquired_date": "2023-10-06T19:44:28"
+            },
+            {
+                "owner_address": "0x000000008CA25c04877BaE82EB593e8f11ad00E5",
+                "first_acquired_date": "2023-10-06T19:41:44",
+                "last_acquired_date": "2023-10-06T19:41:44"
+            },
+            {
+                "owner_address": "0x000000008D531DE090dc7FbdB57B0159f7972eee",
+                "first_acquired_date": "2023-10-06T19:44:28",
+                "last_acquired_date": "2023-10-06T19:44:28"
+            },
+            {
+                "owner_address": "0x0000000096441A2C7FA59AE9cfCBc7038a878a42",
+                "first_acquired_date": "2023-10-06T19:40:10",
+                "last_acquired_date": "2023-10-06T19:40:10"
+            },
+            {
+                "owner_address": "0x00000000dDCB8dd8b4a04E11888E7124Ab6EA43D",
+                "first_acquired_date": "2023-10-06T19:44:52",
+                "last_acquired_date": "2023-10-06T19:44:52"
+            },
+            {
+                "owner_address": "0x00000000E7BC4060E7116957d1B97dA8522D511a",
+                "first_acquired_date": "2023-10-06T19:40:52",
+                "last_acquired_date": "2023-10-06T19:40:52"
+            },
+            {
+                "owner_address": "0x00000000eddb52AAA642C5ce030A0405f4Db2A87",
+                "first_acquired_date": "2023-10-06T19:40:48",
+                "last_acquired_date": "2023-10-06T19:40:48"
+            },
+            {
+                "owner_address": "0x000000030f49bF2e002E60C6Ed1661fb2346d882",
+                "first_acquired_date": "2023-10-06T19:40:52",
+                "last_acquired_date": "2023-10-06T19:40:52"
+            },
+            {
+                "owner_address": "0x000000072Ed5718cf91290bcAA1143bc97d1D7ff",
+                "first_acquired_date": "2023-10-06T19:44:18",
+                "last_acquired_date": "2023-10-06T19:44:18"
+            },
+            {
+                "owner_address": "0x00000008601293E7ee49fea9dB22cd1BEf516E16",
+                "first_acquired_date": "2023-10-06T19:41:04",
+                "last_acquired_date": "2023-10-06T19:41:04"
+            },
+            {
+                "owner_address": "0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c",
+                "first_acquired_date": "2023-10-06T19:41:04",
+                "last_acquired_date": "2023-10-06T19:41:04"
+            },
+            {
+                "owner_address": "0x000000091274F24f0C138792c7A6299Ee0f1Fe9F",
+                "first_acquired_date": "2023-10-06T19:44:22",
+                "last_acquired_date": "2023-10-06T19:44:22"
+            },
+            {
+                "owner_address": "0x0000000e98F8706B3Be5C1BAa85ee508cf88a7b2",
+                "first_acquired_date": "2023-10-06T19:41:06",
+                "last_acquired_date": "2023-10-06T19:41:06"
+            },
+            {
+                "owner_address": "0x0000001db74621e2ABAd94364624F1EBea013a3D",
+                "first_acquired_date": "2023-10-06T19:41:28",
+                "last_acquired_date": "2023-10-06T19:41:28"
+            },
+            {
+                "owner_address": "0x000000422A649825bdA802b2C212c46127bd96Fd",
+                "first_acquired_date": "2023-10-06T19:40:34",
+                "last_acquired_date": "2023-10-06T19:40:34"
+            },
+            {
+                "owner_address": "0x0000009D757769f7Baf42Da1f2E2818301fc0f4e",
+                "first_acquired_date": "2023-10-06T19:40:36",
+                "last_acquired_date": "2023-10-06T19:40:36"
+            },
+            {
+                "owner_address": "0x000000Cd6521Ed1a65FAe0678eA15aF4EEAD74fe",
+                "first_acquired_date": "2023-10-06T19:40:52",
+                "last_acquired_date": "2023-10-06T19:40:52"
+            },
+            {
+                "owner_address": "0x000000e29fa2bd3E5C215fFc71aA66b29c9769A2",
+                "first_acquired_date": "2023-10-06T19:44:52",
+                "last_acquired_date": "2023-10-06T19:44:52"
+            },
+            {
+                "owner_address": "0x000000EF67A409Eb59726FCeDae5E589E8B68942",
+                "first_acquired_date": "2023-10-06T19:41:52",
+                "last_acquired_date": "2023-10-06T19:41:52"
+            },
+            {
+                "owner_address": "0x00000489abE83E08f2C14F101857c66075f5Ad24",
+                "first_acquired_date": "2023-10-06T19:44:34",
+                "last_acquired_date": "2023-10-06T19:44:34"
+            },
+            {
+                "owner_address": "0x000005d741c6FB47217b0A5759e7CC7955cAeD4c",
+                "first_acquired_date": "2023-10-06T19:41:44",
+                "last_acquired_date": "2023-10-06T19:41:44"
+            },
+            {
+                "owner_address": "0x00000641C4a4181E00AbD675327F6b73D0849977",
+                "first_acquired_date": "2023-10-06T19:44:34",
+                "last_acquired_date": "2023-10-06T19:44:34"
+            },
+            {
+                "owner_address": "0x000008F29ddE4541519b4aB9ac233FDc1370022d",
+                "first_acquired_date": "2023-10-06T19:43:28",
+                "last_acquired_date": "2023-10-06T19:43:28"
+            },
+            {
+                "owner_address": "0x00000aB3b1C7d7094E49152D9BEa13f28bd3a6C3",
+                "first_acquired_date": "2023-10-06T19:40:10",
+                "last_acquired_date": "2023-10-06T19:40:10"
+            },
+            {
+                "owner_address": "0x00000C1bA96A848936CEED96281790d555dd03ae",
+                "first_acquired_date": "2023-10-06T19:44:28",
+                "last_acquired_date": "2023-10-06T19:44:28"
+            },
+            {
+                "owner_address": "0x0000104AC1043BFc23096871F496e987228d0000",
+                "first_acquired_date": "2023-10-06T19:44:32",
+                "last_acquired_date": "2023-10-06T19:44:32"
+            },
+            {
+                "owner_address": "0x00001d300DDec34F9e6953bE3a251dC49112C57d",
+                "first_acquired_date": "2023-10-06T19:40:10",
+                "last_acquired_date": "2023-10-06T19:40:10"
+            },
+            {
+                "owner_address": "0x00001F74960519b2033E79241d65ba773EBD0Fe7",
+                "first_acquired_date": "2023-10-06T19:45:14",
+                "last_acquired_date": "2023-10-06T19:45:14"
+            },
+            {
+                "owner_address": "0x00002777F0Fff263ffB4B00448Aff27147A72d6E",
+                "first_acquired_date": "2023-10-06T19:44:28",
+                "last_acquired_date": "2023-10-06T19:44:28"
+            },
+            {
+                "owner_address": "0x00002C9ba76e80c3f67a796A3C1ec0f02D4B190C",
+                "first_acquired_date": "2023-10-06T19:42:14",
+                "last_acquired_date": "2023-10-06T19:42:14"
+            },
+            {
+                "owner_address": "0x00002d618fcB99cfe7Af0c6505508b33fC620000",
+                "first_acquired_date": "2023-10-06T19:41:28",
+                "last_acquired_date": "2023-10-06T19:41:28"
+            },
+            {
+                "owner_address": "0x00002e8AA32C91BccffE8A0180F5b91a87532797",
+                "first_acquired_date": "2023-10-06T19:44:28",
+                "last_acquired_date": "2023-10-06T19:44:28"
+            },
+            {
+                "owner_address": "0x00002F88dbb8740c0873Cf0579f39fB050966E05",
+                "first_acquired_date": "2023-10-06T19:40:34",
+                "last_acquired_date": "2023-10-06T19:40:34"
+            },
+            {
+                "owner_address": "0x0000328328249d36a138d5d294407D6cEc795450",
+                "first_acquired_date": "2023-10-06T19:40:18",
+                "last_acquired_date": "2023-10-06T19:40:18"
+            },
+            {
+                "owner_address": "0x0000348253315eFaa2352d096a5046c81B758439",
+                "first_acquired_date": "2023-10-06T19:40:18",
+                "last_acquired_date": "2023-10-06T19:40:18"
+            },
+            {
+                "owner_address": "0x00003FBaFE186295643C936E04e4FF8DE630b6D3",
+                "first_acquired_date": "2023-10-06T19:44:30",
+                "last_acquired_date": "2023-10-06T19:44:30"
+            },
+            {
+                "owner_address": "0x000043f5809F540844e59109d502D5f8481f1994",
+                "first_acquired_date": "2023-10-06T19:40:18",
+                "last_acquired_date": "2023-10-06T19:40:18"
+            },
+            {
+                "owner_address": "0x00004bBc955F320b5872EefE22773043cbD82239",
+                "first_acquired_date": "2023-10-06T19:44:52",
+                "last_acquired_date": "2023-10-06T19:44:52"
+            },
+            {
+                "owner_address": "0x000058d75AB402902838Dbf5Aa9d1894Bb420000",
+                "first_acquired_date": "2023-10-06T19:44:22",
+                "last_acquired_date": "2023-10-06T19:44:22"
+            }
+        ],
+        "last_sale": null,
+        "first_created": {
+            "minted_to": "0xBb21AaFc3e15CBF3dB813B48C9508dF543696bab",
+            "timestamp": "2023-10-06T19:40:10",
+            "block_number": 48407337,
+            "transaction": "0x51c9448160df9d06d63b5d0f3da449594df9b7813226667224e69777391a082e",
+            "transaction_initiator": "0xc8676699f5aF02aaE1aF994230CC381188255265"
+        },
+        "contract": {
+            "type": "ERC1155",
+            "name": "$2000 USDC",
+            "symbol": "Voucher",
+            "deployed_by": "0xc8676699f5aF02aaE1aF994230CC381188255265",
+            "deployed_via_contract": null
+        },
+        "collection": {
+            "collection_id": "3e87e06f7c7908e83b02acbf6ad8c2a3",
+            "name": "$2000 USDC",
+            "description": null,
+            "image_url": null,
+            "banner_image_url": null,
+            "category": null,
+            "is_nsfw": false,
+            "external_url": null,
+            "twitter_username": null,
+            "discord_url": null,
+            "instagram_url": null,
+            "medium_username": null,
+            "telegram_url": null,
+            "marketplace_pages": [
+                {
+                    "marketplace_id": "magiceden",
+                    "marketplace_name": "Magic Eden",
+                    "marketplace_collection_id": "2000-usdc-453",
+                    "nft_url": "https://magiceden.io/item-details/xdc/0xe0f69397f848d8cf856ab6ad8ba7c23a0a9178dd/0",
+                    "collection_url": "https://magiceden.io/collections/xdc/2000-usdc-453",
+                    "verified": null
+                },
+                {
+                    "marketplace_id": "opensea",
+                    "marketplace_name": "OpenSea",
+                    "marketplace_collection_id": "2000-usdc-453",
+                    "nft_url": "https://opensea.io/assets/matic/0xe0f69397f848d8cf856ab6ad8ba7c23a0a9178dd/0",
+                    "collection_url": "https://opensea.io/collection/2000-usdc-453",
+                    "verified": false
+                }
+            ],
+            "metaplex_mint": null,
+            "metaplex_first_verified_creator": null,
+            "spam_score": null,
+            "floor_prices": [],
+            "top_contracts": [
+                "xdc.0xe0f69397f848d8cf856ab6ad8ba7c23a0a9178dd"
+            ]
+        },
+        "rarity": {
+            "rank": null,
+            "score": null,
+            "unique_attributes": null
+        },
+        "royalty": [
+            {
+                "source": "opensea",
+                "total_creator_fee_basis_points": 0,
+                "recipients": []
+            }
+        ],
+        "extra_metadata": {
+            "attributes": [
+                {
+                    "trait_type": "Website :",
+                    "value": "usdc-token.org",
+                    "display_type": null
+                }
+            ],
+            "image_original_url": "https://usdc-token.org/usdc-token.png",
+            "animation_original_url": null,
+            "metadata_original_url": "https://usdc-token.org/0.json"
+        }
+    },
+    {
+        "nft_id": "xdc.0xf29f09750e8a2239077db8c8853ecc983dbbdc41.0",
+        "chain": "xdc",
+        "contract_address": "0xF29f09750e8A2239077Db8c8853ECC983dbbdC41",
+        "token_id": "0",
+        "name": "$1000 Rewards",
+        "description": "Owning this badge indicates (https://get-usdt.biz) that the user has received $1000 USDT Airdrop. \n\n Visit official website: https://get-usdt.biz",
+        "previews": {
+            "image_small_url": "https://lh3.googleusercontent.com/EegKRoDjIX9cH57wLWYAuJ_fXkGrW34e22aOeJ9V5ikJDKmncabWvDEy2oUnExX5XH7fPKxpShMEBCLLQ-hWdVIRzXHjOABbqZI=s250",
+            "image_medium_url": "https://lh3.googleusercontent.com/EegKRoDjIX9cH57wLWYAuJ_fXkGrW34e22aOeJ9V5ikJDKmncabWvDEy2oUnExX5XH7fPKxpShMEBCLLQ-hWdVIRzXHjOABbqZI",
+            "image_large_url": "https://lh3.googleusercontent.com/EegKRoDjIX9cH57wLWYAuJ_fXkGrW34e22aOeJ9V5ikJDKmncabWvDEy2oUnExX5XH7fPKxpShMEBCLLQ-hWdVIRzXHjOABbqZI=s1000",
+            "image_opengraph_url": "https://lh3.googleusercontent.com/EegKRoDjIX9cH57wLWYAuJ_fXkGrW34e22aOeJ9V5ikJDKmncabWvDEy2oUnExX5XH7fPKxpShMEBCLLQ-hWdVIRzXHjOABbqZI=k-w1200-s2400-rj",
+            "blurhash": "UNC[,NDOEeRP.lRPVtofE1j[xHt7r]ozWBV[",
+            "predominant_color": "#5aa28b"
+        },
+        "image_url": "https://cdn.simplehash.com/assets/f8a4f6c28c20b1a1572b5f6ffe3e13c096eb0c4ef3d79bae7c99109175da099f.jpg",
+        "image_properties": {
+            "width": 800,
+            "height": 800,
+            "size": 96216,
+            "mime_type": "image/jpeg"
+        },
+        "video_url": null,
+        "video_properties": null,
+        "audio_url": null,
+        "audio_properties": null,
+        "model_url": null,
+        "model_properties": null,
+        "background_color": null,
+        "external_link": null,
+        "created_date": "2023-10-06T17:29:11",
+        "status": "minted",
+        "owners": [
+            {
+                "owner_address": "0x11b7fB1Dd86b95eF127D485038fE216fC22D263f",
+                "first_acquired_date": "2023-10-06T18:05:20",
+                "last_acquired_date": "2023-10-06T19:12:16"
+            },
+            {
+                "owner_address": "0x2866E13a52fA977533c2522607EeE155590C4681",
+                "first_acquired_date": "2023-10-06T18:17:18",
+                "last_acquired_date": "2023-10-06T18:56:11"
+            },
+            {
+                "owner_address": "0x37662bfCfAf68F9e9C97694F92fcA27b95aeEeEc",
+                "first_acquired_date": "2023-10-06T18:38:12",
+                "last_acquired_date": "2023-10-06T19:02:07"
+            },
+            {
+                "owner_address": "0x441F258d2408266E3577EdeBbbD31709597c2d0f",
+                "first_acquired_date": "2023-10-06T18:28:25",
+                "last_acquired_date": "2023-10-06T19:27:34"
+            },
+            {
+                "owner_address": "0x444C6E6f0Dc90225c0f6d293f942d051E9c5f1ec",
+                "first_acquired_date": "2023-10-06T18:07:10",
+                "last_acquired_date": "2023-10-06T18:53:47"
+            },
+            {
+                "owner_address": "0x50ACF984362825970CD6357eAa330EDDee0Ac9f2",
+                "first_acquired_date": "2023-10-06T18:03:17",
+                "last_acquired_date": "2023-10-06T19:04:45"
+            },
+            {
+                "owner_address": "0x5B88433a8b119d0043Ec36AF5E3e4C694F3FcC5D",
+                "first_acquired_date": "2023-10-06T18:27:49",
+                "last_acquired_date": "2023-10-06T19:22:52"
+            },
+            {
+                "owner_address": "0x6Ef7173Ba0552f8940Dda4B5eA5AC48b17f8b8a2",
+                "first_acquired_date": "2023-10-06T17:54:52",
+                "last_acquired_date": "2023-10-06T19:30:42"
+            },
+            {
+                "owner_address": "0x7b826a105293E58631aa2e534661afEE7d4B4ff6",
+                "first_acquired_date": "2023-10-06T18:26:55",
+                "last_acquired_date": "2023-10-06T19:07:25"
+            },
+            {
+                "owner_address": "0x807903D9e2F72009D35BfA48E015Efae2C9ae1F8",
+                "first_acquired_date": "2023-10-06T18:02:35",
+                "last_acquired_date": "2023-10-06T18:57:57"
+            },
+            {
+                "owner_address": "0x8f83B6CF29154124158Ea05EC3F0ABD126CB05B2",
+                "first_acquired_date": "2023-10-06T18:38:12",
+                "last_acquired_date": "2023-10-06T18:57:39"
+            },
+            {
+                "owner_address": "0x941583588C38B0055260B142786cf7AA2d6Edbc5",
+                "first_acquired_date": "2023-10-06T17:52:48",
+                "last_acquired_date": "2023-10-06T19:11:22"
+            },
+            {
+                "owner_address": "0x9cE7456Ec06b1457C91bD4619A08dbe8adc926Fd",
+                "first_acquired_date": "2023-10-06T17:38:28",
+                "last_acquired_date": "2023-10-06T19:21:06"
+            },
+            {
+                "owner_address": "0xB00D4272aa27794e892bA1F02C7f3FB7433c9773",
+                "first_acquired_date": "2023-10-06T18:34:24",
+                "last_acquired_date": "2023-10-06T19:32:44"
+            },
+            {
+                "owner_address": "0xEEc8Ee9D58718b4373dC8F2470d95A5A828EDdad",
+                "first_acquired_date": "2023-10-06T18:25:27",
+                "last_acquired_date": "2023-10-06T19:05:21"
+            },
+            {
+                "owner_address": "0x02cDCC4C23b5b3A2D6973B4F42a6b20D08E9bEF6",
+                "first_acquired_date": "2023-10-06T17:50:42",
+                "last_acquired_date": "2023-10-06T19:04:45"
+            },
+            {
+                "owner_address": "0x0430Ab3694A9AAAac78902A6Aa1C405AeDEe92B7",
+                "first_acquired_date": "2023-10-06T17:59:05",
+                "last_acquired_date": "2023-10-06T19:01:31"
+            },
+            {
+                "owner_address": "0x04cFeB6F40Df04bB2A439C98c27a928F2d4539D1",
+                "first_acquired_date": "2023-10-06T17:55:10",
+                "last_acquired_date": "2023-10-06T19:09:54"
+            },
+            {
+                "owner_address": "0x05b5ee5Cb4B3bF2411a26150E56849F38f4014Ca",
+                "first_acquired_date": "2023-10-06T18:13:08",
+                "last_acquired_date": "2023-10-06T19:31:56"
+            },
+            {
+                "owner_address": "0x07f983222Cf3CE616D0Abbb4637EB8EB8f952F36",
+                "first_acquired_date": "2023-10-06T18:51:55",
+                "last_acquired_date": "2023-10-06T18:57:21"
+            },
+            {
+                "owner_address": "0x0827476063f07E80aeFD0bAFB005Cf0fE5EdB6AD",
+                "first_acquired_date": "2023-10-06T18:13:08",
+                "last_acquired_date": "2023-10-06T19:11:06"
+            },
+            {
+                "owner_address": "0x09ABdD968e3d62CB655C7e54820a8f1ebF1478af",
+                "first_acquired_date": "2023-10-06T18:07:10",
+                "last_acquired_date": "2023-10-06T19:35:20"
+            },
+            {
+                "owner_address": "0x09b99b24bf35712959DC0c625C06D2eaF9b713cd",
+                "first_acquired_date": "2023-10-06T18:34:24",
+                "last_acquired_date": "2023-10-06T19:19:38"
+            },
+            {
+                "owner_address": "0x09f70921310926dE1148367d6134546aAEC9F926",
+                "first_acquired_date": "2023-10-06T18:36:08",
+                "last_acquired_date": "2023-10-06T19:22:18"
+            },
+            {
+                "owner_address": "0x0B077122f44a0B0E0f65B056F963663f0C92f001",
+                "first_acquired_date": "2023-10-06T18:49:47",
+                "last_acquired_date": "2023-10-06T19:15:40"
+            },
+            {
+                "owner_address": "0x0Ed0E8cD721077cD2D2aF463B671B0623083a447",
+                "first_acquired_date": "2023-10-06T18:24:33",
+                "last_acquired_date": "2023-10-06T19:11:40"
+            },
+            {
+                "owner_address": "0x0Ef827f689Da8DBD7b3Ae1899f8CA0e864A36e69",
+                "first_acquired_date": "2023-10-06T18:50:05",
+                "last_acquired_date": "2023-10-06T18:52:31"
+            },
+            {
+                "owner_address": "0x0f21193fBe180281E1d1718A57019a20e10b9e82",
+                "first_acquired_date": "2023-10-06T18:20:01",
+                "last_acquired_date": "2023-10-06T19:23:28"
+            },
+            {
+                "owner_address": "0x0F4D5D85912584F719d96Ed89945a68C2Ec09070",
+                "first_acquired_date": "2023-10-06T18:27:49",
+                "last_acquired_date": "2023-10-06T19:21:44"
+            },
+            {
+                "owner_address": "0x10b0000Bb4B7a07ab03f2d1da71A505B41F2BFB5",
+                "first_acquired_date": "2023-10-06T18:43:36",
+                "last_acquired_date": "2023-10-06T19:03:17"
+            },
+            {
+                "owner_address": "0x1118A267eaED52488539471949EdC2796AD1f11D",
+                "first_acquired_date": "2023-10-06T18:41:50",
+                "last_acquired_date": "2023-10-06T18:56:29"
+            },
+            {
+                "owner_address": "0x11792fc93642872D04E0122762DBd63D5fB80f0B",
+                "first_acquired_date": "2023-10-06T18:42:42",
+                "last_acquired_date": "2023-10-06T19:23:44"
+            },
+            {
+                "owner_address": "0x12B6D7Bc46bfBA2B9c2A826aF577c705fbbD9b4c",
+                "first_acquired_date": "2023-10-06T18:19:23",
+                "last_acquired_date": "2023-10-06T19:18:30"
+            },
+            {
+                "owner_address": "0x13079e006B59C15F0973e9A308e4047DFc1Af9Eb",
+                "first_acquired_date": "2023-10-06T17:32:27",
+                "last_acquired_date": "2023-10-06T19:31:18"
+            },
+            {
+                "owner_address": "0x13987432FF375B75d3982c1fB3F5484897f124f5",
+                "first_acquired_date": "2023-10-06T18:46:00",
+                "last_acquired_date": "2023-10-06T19:12:16"
+            },
+            {
+                "owner_address": "0x13C10eCb747F71b8Aa01304B1fA08383A9163811",
+                "first_acquired_date": "2023-10-06T17:36:41",
+                "last_acquired_date": "2023-10-06T19:06:31"
+            },
+            {
+                "owner_address": "0x15Aa342cBf6658E76cEA0c948aa6A653fe6e6afD",
+                "first_acquired_date": "2023-10-06T18:27:31",
+                "last_acquired_date": "2023-10-06T19:01:31"
+            },
+            {
+                "owner_address": "0x1cc1ecdCa95Bfd1D914fBc68Dd101e6c14857fE6",
+                "first_acquired_date": "2023-10-06T18:09:00",
+                "last_acquired_date": "2023-10-06T19:09:02"
+            },
+            {
+                "owner_address": "0x2042506134F5ed0442283F754a5dDFc04f6F39d2",
+                "first_acquired_date": "2023-10-06T18:23:03",
+                "last_acquired_date": "2023-10-06T18:52:31"
+            },
+            {
+                "owner_address": "0x2342a72B81aA460205e6fB324495Fd52408Ec7Fd",
+                "first_acquired_date": "2023-10-06T18:05:20",
+                "last_acquired_date": "2023-10-06T19:05:21"
+            },
+            {
+                "owner_address": "0x23711364E014aB455DEe32F02E6D2aE7D070F9B9",
+                "first_acquired_date": "2023-10-06T18:36:44",
+                "last_acquired_date": "2023-10-06T19:24:02"
+            },
+            {
+                "owner_address": "0x254dbccbAab09BeC4d378D7ee619F03c461308bB",
+                "first_acquired_date": "2023-10-06T17:46:50",
+                "last_acquired_date": "2023-10-06T18:55:37"
+            },
+            {
+                "owner_address": "0x26a512cc30b14Cf279bfCAA9D7BDda17defad278",
+                "first_acquired_date": "2023-10-06T18:49:47",
+                "last_acquired_date": "2023-10-06T19:04:45"
+            },
+            {
+                "owner_address": "0x27938256D26DCA34945410846a8e1dAA7726eE86",
+                "first_acquired_date": "2023-10-06T18:51:55",
+                "last_acquired_date": "2023-10-06T18:59:57"
+            },
+            {
+                "owner_address": "0x27A6A98a05Dc4f792E10f18Ab4Eb09105F31139F",
+                "first_acquired_date": "2023-10-06T17:35:49",
+                "last_acquired_date": "2023-10-06T19:09:02"
+            },
+            {
+                "owner_address": "0x29054af0bc244f8801a6f073c56AA7d926511EFE",
+                "first_acquired_date": "2023-10-06T17:39:40",
+                "last_acquired_date": "2023-10-06T19:15:58"
+            },
+            {
+                "owner_address": "0x29F1Ea8067B363539a07aEe8728Cd21e39a443F6",
+                "first_acquired_date": "2023-10-06T18:13:08",
+                "last_acquired_date": "2023-10-06T19:32:30"
+            },
+            {
+                "owner_address": "0x2a1ED70F308a3EE277bf9BD356C6d5d1470D3a59",
+                "first_acquired_date": "2023-10-06T18:51:39",
+                "last_acquired_date": "2023-10-06T18:59:05"
+            },
+            {
+                "owner_address": "0x2c4FCEF5c9a1B748FaeAC0350afC2aBf160Bbd5E",
+                "first_acquired_date": "2023-10-06T18:33:46",
+                "last_acquired_date": "2023-10-06T19:04:11"
+            },
+            {
+                "owner_address": "0x2D29805C824E543C0a6684Dd620F8c6F3bd354d9",
+                "first_acquired_date": "2023-10-06T18:25:27",
+                "last_acquired_date": "2023-10-06T18:52:51"
+            }
+        ],
+        "last_sale": null,
+        "first_created": {
+            "minted_to": "0x193c82adf4e514d443735710Fdc79F50DE6f58A0",
+            "timestamp": "2023-10-06T17:29:11",
+            "block_number": 48403729,
+            "transaction": "0x176542e89943a5f6274c0a6c6403e92ea53123ad8339f6ee863a33aa748f7460",
+            "transaction_initiator": "0x680A9Bf9990e533dD00a1071bbB073b56c3090F0"
+        },
+        "contract": {
+            "type": "ERC1155",
+            "name": "$1000 Rewards",
+            "symbol": "get-usdt.biz",
+            "deployed_by": "0x0021C7Bc2b309bc92e66958FbC7A24D52Ed4be50",
+            "deployed_via_contract": null
+        },
+        "collection": {
+            "collection_id": "d2c566ecac8417caeeabfa7dd6cc5f22",
+            "name": "$1000 Rewards",
+            "description": null,
+            "image_url": null,
+            "banner_image_url": null,
+            "category": null,
+            "is_nsfw": false,
+            "external_url": null,
+            "twitter_username": null,
+            "discord_url": null,
+            "instagram_url": null,
+            "medium_username": null,
+            "telegram_url": null,
+            "marketplace_pages": [
+                {
+                    "marketplace_id": "magiceden",
+                    "marketplace_name": "Magic Eden",
+                    "marketplace_collection_id": "1000-rewards-251",
+                    "nft_url": "https://magiceden.io/item-details/xdc/0xf29f09750e8a2239077db8c8853ecc983dbbdc41/0",
+                    "collection_url": "https://magiceden.io/collections/xdc/1000-rewards-251",
+                    "verified": null
+                },
+                {
+                    "marketplace_id": "opensea",
+                    "marketplace_name": "OpenSea",
+                    "marketplace_collection_id": "1000-rewards-251",
+                    "nft_url": "https://opensea.io/assets/matic/0xf29f09750e8a2239077db8c8853ecc983dbbdc41/0",
+                    "collection_url": "https://opensea.io/collection/1000-rewards-251",
+                    "verified": false
+                }
+            ],
+            "metaplex_mint": null,
+            "metaplex_first_verified_creator": null,
+            "spam_score": null,
+            "floor_prices": [],
+            "top_contracts": [
+                "xdc.0xf29f09750e8a2239077db8c8853ecc983dbbdc41"
+            ]
+        },
+        "rarity": {
+            "rank": null,
+            "score": null,
+            "unique_attributes": null
+        },
+        "royalty": [
+            {
+                "source": "opensea",
+                "total_creator_fee_basis_points": 0,
+                "recipients": []
+            }
+        ],
+        "extra_metadata": {
+            "attributes": [],
+            "image_original_url": "https://i.postimg.cc/k4Kz7q8c/image.jpg",
+            "animation_original_url": null,
+            "metadata_original_url": "https://bafybeidn2umm32d62alctkq3ttb3c66duzgnpmhvawzj3dc5zqq4waeqia.ipfs.dweb.link/as.json"
+        }
+    }
+]
